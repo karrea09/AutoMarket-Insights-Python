@@ -1,0 +1,1370 @@
+Brand,Model,Variant,CC,Fuel_Type,Price_in_lakh,Transmission,Mileage_kmpl/kmkg(cng),Bhp,Rating,Value_Score
+Maruti Suzuki,Fronx,Sigma 1.2L MT,1197,Petrol,7.54,Manual,21.79,89,4.5,257.2029178
+Maruti Suzuki,Fronx,Delta 1.2L MT,1197,Petrol,8.4,Manual,21.79,89,4.5,230.8702381
+Maruti Suzuki,Fronx,Sigma 1.2 CNG,1197,CNG,8.49,Manual,28.51,76,4.5,255.213192
+Maruti Suzuki,Fronx,Delta Plus 1.2L MT,1197,Petrol,8.8,Manual,21.79,89,4.5,220.3761364
+Maruti Suzuki,Fronx,Delta 1.2L AGS,1197,Petrol,8.9,Automatic (AMT),22.89,89,4.5,228.9
+Maruti Suzuki,Fronx,Delta Plus (O) 1.2L MT,1197,Petrol,8.96,Manual,21.79,89,4.5,216.4408482
+Maruti Suzuki,Fronx,Delta Plus 1.2L AGS,1197,Petrol,9.3,Automatic (AMT),22.89,89,4.5,219.0548387
+Maruti Suzuki,Fronx,Delta 1.2 CNG,1197,CNG,9.35,Manual,28.51,76,4.5,231.7390374
+Maruti Suzuki,Fronx,Delta Plus (O) 1.2L AGS,1197,Petrol,9.46,Automatic (AMT),22.89,89,4.5,215.3498943
+Maruti Suzuki,Fronx,Delta Plus 1.0 Turbo MT,998,Petrol,9.75,Manual,21.5,99,4.5,218.3076923
+Maruti Suzuki,Fronx,Zeta 1.0L Turbo MT,998,Petrol,10.58,Manual,21.5,99,4.5,201.1814745
+Maruti Suzuki,Fronx,Alpha 1.0L Turbo MT,998,Petrol,11.5,Manual,21.5,99,4.5,185.0869565
+Maruti Suzuki,Fronx,Alpha 1.0L Turbo MT Dual Tone,998,Petrol,11.66,Manual,21.5,99,4.5,182.5471698
+Maruti Suzuki,Fronx,Zeta 1.0L Turbo 6 AT,998,Petrol,11.98,Automatic (TC),20.01,99,4.5,165.3580968
+Maruti Suzuki,Fronx,Alpha 1.0L Turbo 6 AT,998,Petrol,12.9,Automatic (TC),20.01,99,4.5,153.5651163
+Maruti Suzuki,Fronx,Alpha 1.0L Turbo 6 AT Dual Tone,998,Petrol,13.06,Automatic (TC),20.01,99,4.5,151.6837672
+Maruti Suzuki,Brezza,LXi,1462,Petrol,8.69,Manual,17.8,99,4.5,202.7848101
+Maruti Suzuki,Brezza,LXi S-CNG,1462,CNG,9.64,Manual,25.51,87,4.5,230.2251037
+Maruti Suzuki,Brezza,VXi,1462,Petrol,9.75,Manual,17.8,99,4.5,180.7384615
+Maruti Suzuki,Brezza,VXi S-CNG,1462,CNG,10.7,Manual,25.51,87,4.5,207.417757
+Maruti Suzuki,Brezza,Vxi AT,1462,Petrol,11.15,Automatic (TC),19.8,99,4.5,175.8026906
+Maruti Suzuki,Brezza,ZXi,1462,Petrol,11.26,Manual,19.89,102,4.5,180.1758437
+Maruti Suzuki,Brezza,Zxi Dual Tone,1462,Petrol,11.42,Manual,19.89,102,4.5,177.6514886
+Maruti Suzuki,Brezza,ZXi S-CNG,1462,CNG,12.21,Manual,25.51,87,4.5,181.7665848
+Maruti Suzuki,Brezza,ZXi S-CNG Dual Tone,1462,CNG,12.37,Manual,25.51,87,4.5,179.4155214
+Maruti Suzuki,Brezza,ZXi Plus,1462,Petrol,12.58,Manual,19.89,102,4.5,161.2702703
+Maruti Suzuki,Brezza,ZXi AT,1462,Petrol,12.66,Automatic (TC),19.8,102,4.5,159.5260664
+Maruti Suzuki,Brezza,Zxi Plus Dual Tone,1462,Petrol,12.74,Manual,19.89,102,4.5,159.244898
+Maruti Suzuki,Brezza,Zxi AT Dual Tone,1462,Petrol,12.82,Automatic (TC),19.8,102,4.5,157.5351014
+Maruti Suzuki,Brezza,ZXi Plus AT,1462,Petrol,13.98,Automatic (TC),19.8,102,4.5,144.4635193
+Maruti Suzuki,Brezza,Zxi Plus AT Dual Tone,1462,Petrol,14.14,Automatic (TC),19.8,102,4.5,142.8288543
+Maruti Suzuki,Dzire,LXi,1197,Petrol,6.84,Manual,24.79,80,4.7,289.9415205
+Maruti Suzuki,Dzire,VXi,1197,Petrol,7.84,Manual,24.79,80,4.7,252.9591837
+Maruti Suzuki,Dzire,VXi AMT,1197,Petrol,8.34,Automatic (AMT),25.71,80,4.7,246.618705
+Maruti Suzuki,Dzire,VXi CNG,1197,CNG,8.79,Manual,33.73,69,4.7,264.774744
+Maruti Suzuki,Dzire,ZXi,1197,Petrol,8.94,Manual,24.79,80,4.7,221.8344519
+Maruti Suzuki,Dzire,ZXi AMT,1197,Petrol,9.44,Automatic (AMT),25.71,80,4.7,217.8813559
+Maruti Suzuki,Dzire,ZXi Plus,1197,Petrol,9.69,Manual,24.7,80,4.7,203.9215686
+Maruti Suzuki,Dzire,ZXi CNG,1197,CNG,9.89,Manual,33.73,69,4.7,235.3255814
+Maruti Suzuki,Dzire,ZXi Plus AMT,1197,Petrol,10.19,Automatic (AMT),25.71,80,4.7,201.844946
+Maruti Suzuki,Swift,LXi,1197,Petrol,6.49,Manual,24.8,80,4.6,305.7010786
+Maruti Suzuki,Swift,VXi,1197,Petrol,7.29,Manual,24.8,80,4.6,272.1536351
+Maruti Suzuki,Swift,VXi (O),1197,Petrol,7.56,Manual,24.8,80,4.6,262.4338624
+Maruti Suzuki,Swift,VXi AMT,1197,Petrol,7.8,Automatic (AMT),25.75,80,4.6,264.1025641
+Maruti Suzuki,Swift,VXi (O) AMT,1197,Petrol,8.07,Automatic (AMT),25.75,80,4.6,255.2664188
+Maruti Suzuki,Swift,VXi CNG,1197,CNG,8.19,Manual,32.85,69,4.6,276.7582418
+Maruti Suzuki,Swift,ZXi,1197,Petrol,8.29,Manual,24.8,80,4.6,239.3244873
+Maruti Suzuki,Swift,VXi (O) CNG,1197,CNG,8.46,Manual,32.85,69,4.6,267.9255319
+Maruti Suzuki,Swift,ZXi AMT,1197,Petrol,8.8,Automatic (AMT),25.75,80,4.6,234.0909091
+Maruti Suzuki,Swift,ZXi Plus,1197,Petrol,8.99,Manual,24.8,80,4.6,220.6896552
+Maruti Suzuki,Swift,ZXi Plus Dual Tone,1197,Petrol,9.14,Manual,24.8,80,4.6,217.0678337
+Maruti Suzuki,Swift,ZXi CNG,1197,CNG,9.19,Manual,32.85,69,4.6,246.6430903
+Maruti Suzuki,Swift,ZXi Plus AMT,1197,Petrol,9.5,Automatic (AMT),25.75,80,4.6,216.8421053
+Maruti Suzuki,Swift,ZXi Plus Dual Tone AMT,1197,Petrol,9.64,Automatic (AMT),25.75,80,4.6,213.6929461
+Maruti Suzuki,Grand Vitara,Sigma Smart Hybrid,1462,Petrol,11.42,Manual,21.11,102,4.5,188.5481611
+Maruti Suzuki,Grand Vitara,Delta Smart Hybrid,1462,Petrol,12.53,Manual,21.11,102,4.5,171.8451716
+Maruti Suzuki,Grand Vitara,Delta Smart Hybrid AT,1462,Petrol,13.93,Automatic (TC),20.58,102,4.5,150.6934673
+Maruti Suzuki,Grand Vitara,Zeta Smart Hybrid,1462,Petrol,14.67,Manual,21.11,102,4.5,146.7770961
+Maruti Suzuki,Grand Vitara,Zeta Smart Hybrid Dual Tone,1462,Petrol,14.83,Manual,21.11,102,4.5,145.1935266
+Maruti Suzuki,Grand Vitara,Zeta (O) Smart Hybrid,1462,Petrol,15.27,Manual,21.11,102,4.5,141.0098232
+Maruti Suzuki,Grand Vitara,Zeta (O) Smart Hybrid Dual Tone,1462,Petrol,15.43,Manual,21.11,102,4.5,139.5476345
+Maruti Suzuki,Grand Vitara,Zeta Smart Hybrid AT,1462,Petrol,16.07,Automatic (TC),20.58,102,4.5,130.6260112
+Maruti Suzuki,Grand Vitara,Alpha Smart Hybrid,1462,Petrol,16.14,Manual,21.11,102,4.5,133.4089219
+Maruti Suzuki,Grand Vitara,Zeta Smart Hybrid AT Dual Tone,1462,Petrol,16.23,Automatic (TC),20.58,102,4.5,129.3382625
+Maruti Suzuki,Grand Vitara,Alpha Smart Hybrid Dual Tone,1462,Petrol,16.3,Manual,21.11,102,4.5,132.0993865
+Maruti Suzuki,Grand Vitara,Zeta (O) Smart Hybrid AT,1462,Petrol,16.67,Automatic (TC),20.58,102,4.5,125.9244151
+Maruti Suzuki,Grand Vitara,Alpha (O) Smart Hybrid,1462,Petrol,16.74,Manual,21.11,102,4.5,128.6272401
+Maruti Suzuki,Grand Vitara,Zeta (O) Smart Hybrid AT Dual Tone,1462,Petrol,16.83,Automatic (TC),20.58,102,4.5,124.7272727
+Maruti Suzuki,Grand Vitara,Alpha (O) Smart Hybrid Dual Tone,1462,Petrol,16.9,Manual,21.11,102,4.5,127.4094675
+Maruti Suzuki,Grand Vitara,Delta Plus Intelligent Hybrid eCVT,1490,Hybrid (Electric + Petrol),16.99,Automatic (CVT),27.97,91,4.5,149.8098882
+Maruti Suzuki,Grand Vitara,Alpha AT Smart Hybrid,1462,Petrol,17.54,Automatic (TC),20.58,102,4.5,119.6784493
+Maruti Suzuki,Grand Vitara,Alpha AT Smart Hybrid Dual Tone,1462,Petrol,17.7,Automatic (TC),20.58,102,4.5,118.5966102
+Maruti Suzuki,Grand Vitara,Alpha (O) Smart Hybrid AT,1462,Petrol,18.14,Automatic (TC),20.58,102,4.5,115.7199559
+Maruti Suzuki,Grand Vitara,Alpha (O) Smart Hybrid AT Dual Tone,1462,Petrol,18.3,Automatic (TC),20.58,102,4.5,114.7081967
+Maruti Suzuki,Grand Vitara,Zeta Plus Intelligent Hybrid eCVT,1490,Hybrid (Electric + Petrol),18.6,Automatic (CVT),27.97,91,4.5,136.8424731
+Maruti Suzuki,Grand Vitara,Zeta Plus Intelligent Hybrid eCVTDual Tone,1490,Hybrid (Electric + Petrol),18.76,Automatic (CVT),27.97,91,4.5,135.6753731
+Maruti Suzuki,Grand Vitara,Alpha Smart Hybrid AllGrip 4WD AT,1462,Petrol,19.04,Automatic (TC),19.2,102,4.5,102.8571429
+Maruti Suzuki,Grand Vitara,Alpha Smart Hybrid AllGrip 4WD AT Dual Tone,1462,Petrol,19.2,Automatic (TC),19.2,102,4.5,102
+Maruti Suzuki,Grand Vitara,Zeta Plus (O) Intelligent Hybrid eCVT,1490,Hybrid (Electric + Petrol),19.2,Automatic (CVT),27.97,91,4.5,132.5661458
+Maruti Suzuki,Grand Vitara,Zeta Plus (O) Intelligent Hybrid eCVT Dual Tone,1490,Hybrid (Electric + Petrol),19.36,Automatic (CVT),27.97,91,4.5,131.4705579
+Maruti Suzuki,Grand Vitara,Alpha (O) Smart Hybrid AllGrip 4WD AT,1462,Petrol,19.64,Automatic (TC),19.2,102,4.5,99.71486762
+Maruti Suzuki,Grand Vitara,Alpha (O) Smart Hybrid AllGrip 4WD AT Dual Tone,1462,Petrol,19.8,Automatic (TC),19.2,102,4.5,98.90909091
+Maruti Suzuki,Grand Vitara,Alpha Plus Intelligent Hybrid e-CVT,1490,Hybrid (Electric + Petrol),19.92,Automatic (CVT),27.97,91,4.5,127.7745984
+Maruti Suzuki,Grand Vitara,Alpha Plus Intelligent Hybrid e-CVT Dual Tone,1490,Hybrid (Electric + Petrol),20.08,Automatic (CVT),27.97,91,4.5,126.7564741
+Maruti Suzuki,Grand Vitara,Alpha Plus (O) Intelligent Hybrid e-CVT,1490,Hybrid (Electric + Petrol),20.52,Automatic (CVT),27.97,91,4.5,124.038499
+Maruti Suzuki,Grand Vitara,Alpha Plus (O) Intelligent Hybrid e-CVT Dual Tone,1490,Hybrid (Electric + Petrol),20.68,Automatic (CVT),27.97,91,4.5,123.0788201
+Maruti Suzuki,Baleno,Sigma MT,1197,Petrol,6.7,Manual,22.35,88,4.5,293.5522388
+Maruti Suzuki,Baleno,Delta MT,1197,Petrol,7.54,Manual,22.35,88,4.5,260.8488064
+Maruti Suzuki,Baleno,Delta AGS,1197,Petrol,8.04,Automatic (AMT),22.9,88,4.5,250.6467662
+Maruti Suzuki,Baleno,Delta MT CNG,1197,CNG,8.44,Manual,30.61,76,4.5,275.6350711
+Maruti Suzuki,Baleno,Zeta MT,1197,Petrol,8.47,Manual,22.35,88,4.5,232.2077922
+Maruti Suzuki,Baleno,Zeta AGS,1197,Petrol,8.97,Automatic (AMT),22.9,88,4.5,224.6599777
+Maruti Suzuki,Baleno,Zeta MT CNG,1197,CNG,9.37,Manual,30.61,76,4.5,248.2774813
+Maruti Suzuki,Baleno,Alpha MT,1197,Petrol,9.42,Manual,22.35,88,4.5,208.7898089
+Maruti Suzuki,Baleno,Alpha AGS,1197,Petrol,9.92,Automatic (AMT),22.9,88,4.5,203.1451613
+Maruti Suzuki,Ertiga,LXi (O),1462,Petrol,8.96,Manual,20.51,102,4.6,233.484375
+Maruti Suzuki,Ertiga,VXi (O),1462,Petrol,10.05,Manual,20.51,102,4.6,208.161194
+Maruti Suzuki,Ertiga,VXi (O) CNG,1462,CNG,11,Manual,26.11,87,4.6,206.5063636
+Maruti Suzuki,Ertiga,ZXi (O),1462,Petrol,11.15,Manual,20.51,102,4.6,187.6251121
+Maruti Suzuki,Ertiga,VXi AT,1462,Petrol,11.45,Automatic (TC),20.3,102,4.6,180.8384279
+Maruti Suzuki,Ertiga,ZXi Plus,1462,Petrol,11.85,Manual,20.51,102,4.6,176.5417722
+Maruti Suzuki,Ertiga,ZXi (O) CNG,1462,CNG,12.1,Manual,26.11,87,4.6,187.7330579
+Maruti Suzuki,Ertiga,ZXi AT,1462,Petrol,12.55,Automatic (TC),20.3,102,4.6,164.9880478
+Maruti Suzuki,Ertiga,ZXi Plus AT,1462,Petrol,13.25,Automatic (TC),20.3,102,4.6,156.2716981
+Maruti Suzuki,Wagon R,LXI 1.0,998,Petrol,5.79,Manual,24.35,66,4.5,277.5647668
+Maruti Suzuki,Wagon R,VXI 1.0,998,Petrol,6.24,Manual,24.35,66,4.5,257.5480769
+Maruti Suzuki,Wagon R,ZXI 1.2,1197,Petrol,6.52,Manual,23.56,90,4.5,325.2147239
+Maruti Suzuki,Wagon R,LXI 1.0 CNG,998,CNG,6.69,Manual,33.47,56,4.5,280.1674141
+Maruti Suzuki,Wagon R,VXI 1.0 AGS,998,Petrol,6.74,Automatic (AMT),25.19,66,4.5,246.6676558
+Maruti Suzuki,Wagon R,ZXI Plus 1.2,1197,Petrol,7,Manual,23.56,90,4.5,302.9142857
+Maruti Suzuki,Wagon R,ZXI 1.2 AGS,1197,Petrol,7.02,Automatic (AMT),24.43,90,4.5,313.2051282
+Maruti Suzuki,Wagon R,ZXI Plus 1.2 Dual Tone,1197,Petrol,7.11,Manual,23.56,90,4.5,298.2278481
+Maruti Suzuki,Wagon R,VXI 1.0 CNG,998,CNG,7.14,Manual,33.47,56,4.5,262.5098039
+Maruti Suzuki,Wagon R,ZXI Plus 1.2 AGS,1197,Petrol,7.5,Automatic (AMT),24.43,90,4.5,293.16
+Maruti Suzuki,Wagon R,ZXI Plus 1.2 AGS Dual Tone,1197,Petrol,7.62,Automatic (AMT),24.43,90,4.5,288.5433071
+Maruti Suzuki,Alto K10,Std (O),998,Petrol,4.23,Manual,24.39,68,4.6,392.0851064
+Maruti Suzuki,Alto K10,LXi (O),998,Petrol,5,Manual,24.39,68,4.6,331.704
+Maruti Suzuki,Alto K10,VXi (O),998,Petrol,5.31,Manual,24.39,68,4.6,312.3389831
+Maruti Suzuki,Alto K10,VXi Plus (O),998,Petrol,5.6,Manual,24.39,68,4.6,296.1642857
+Maruti Suzuki,Alto K10,VXi (O) AGS,998,Petrol,5.81,Automatic (AMT),24.9,68,4.6,291.4285714
+Maruti Suzuki,Alto K10,LXi (O) S-CNG,998,CNG,5.9,Manual,33.4,56,4.6,317.0169492
+Maruti Suzuki,Alto K10,VXi Plus (O) AGS,998,Petrol,6.09,Automatic (AMT),24.9,68,4.6,278.0295567
+Maruti Suzuki,Alto K10,VXi (O) S-CNG,998,CNG,6.21,Manual,33.4,56,4.6,301.1916264
+Maruti Suzuki,XL6,Zeta MT,1462,Petrol,11.83,Manual,20.97,102,4.4,180.8064243
+Maruti Suzuki,XL6,Zeta MT,1462,CNG,12.78,Manual,26.32,87,4.4,179.1737089
+Maruti Suzuki,XL6,Alpha MT,1462,Petrol,12.83,Manual,20.97,102,4.4,166.7139517
+Maruti Suzuki,XL6,Zeta AT,1462,Petrol,13.23,Automatic (TC),20.27,99,4.4,151.6802721
+Maruti Suzuki,XL6,Alpha Plus MT,1462,Petrol,13.43,Manual,20.97,102,4.4,159.2658228
+Maruti Suzuki,XL6,Alpha Plus MT Dual Tone,1462,Petrol,13.59,Manual,20.97,102,4.4,157.3907285
+Maruti Suzuki,XL6,Alpha AT,1462,Petrol,14.23,Automatic (TC),20.27,99,4.4,141.0210822
+Maruti Suzuki,XL6,Alpha Plus AT,1462,Petrol,14.83,Automatic (TC),20.27,99,4.4,135.3155765
+Maruti Suzuki,XL6,Alpha Plus AT Dual Tone,1462,Petrol,14.99,Automatic (TC),20.27,99,4.4,133.8712475
+Maruti Suzuki,Celerio,LXi,998,Petrol,5.64,Manual,25.24,66,4,295.3617021
+Maruti Suzuki,Celerio,VXi,998,Petrol,6,Manual,25.24,66,4,277.64
+Maruti Suzuki,Celerio,ZXi,998,Petrol,6.39,Manual,25.24,66,4,260.6948357
+Maruti Suzuki,Celerio,VXi AMT,998,Petrol,6.5,Automatic (AMT),26.68,66,4,270.9046154
+Maruti Suzuki,Celerio,ZXi Plus,998,Petrol,6.87,Manual,24.97,66,4,239.8864629
+Maruti Suzuki,Celerio,ZXi AMT,998,Petrol,6.89,Automatic (AMT),26,66,4,249.0566038
+Maruti Suzuki,Celerio,VXi CNG,998,CNG,6.9,Manual,34.43,56,4,279.4318841
+Maruti Suzuki,Celerio,ZXi Plus AMT,998,Petrol,7.37,Automatic (AMT),26,66,4,232.8358209
+Maruti Suzuki,Ciaz,Sigma 1.5,1462,Petrol,9.42,Manual,20.65,103,4.3,225.7908705
+Maruti Suzuki,Ciaz,Delta 1.5,1462,Petrol,10,Manual,20.65,103,4.3,212.695
+Maruti Suzuki,Ciaz,Zeta 1.5,1462,Petrol,10.42,Manual,20.65,103,4.3,204.121881
+Maruti Suzuki,Ciaz,Delta 1.5 AT,1462,Petrol,11.11,Automatic (TC),20.04,103,4.3,185.7893789
+Maruti Suzuki,Ciaz,Alpha 1.5,1462,Petrol,11.21,Manual,20.65,103,4.3,189.7368421
+Maruti Suzuki,Ciaz,Alpha 1.5 Dual Tone,1462,Petrol,11.37,Manual,20.65,103,4.3,187.0668426
+Maruti Suzuki,Ciaz,Zeta 1.5 AT,1462,Petrol,11.52,Automatic (TC),20.04,103,4.3,179.1770833
+Maruti Suzuki,Ciaz,Alpha 1.5 AT,1462,Petrol,12.31,Automatic (TC),20.04,103,4.3,167.6783103
+Maruti Suzuki,Ciaz,Alpha 1.5 AT Dual Tone,1462,Petrol,12.47,Automatic (TC),20.04,103,4.3,165.5268645
+Maruti Suzuki,Invicto,Zeta Plus 7 STR,1987,Hybrid (Electric + Petrol),25.51,Automatic (e-CVT),23.24,150,4.5,136.6522932
+Maruti Suzuki,Invicto,Zeta Plus 8 STR,1987,Hybrid (Electric + Petrol),25.56,Automatic (e-CVT),23.24,150,4.5,136.3849765
+Maruti Suzuki,Invicto,Alpha Plus 7 STR,1987,Hybrid (Electric + Petrol),29.22,Automatic (e-CVT),23.24,150,4.5,119.301848
+Maruti Suzuki,Ignis,Sigma 1.2 MT,1197,Petrol,5.85,Manual,20.89,82,4.7,292.817094
+Maruti Suzuki,Ignis,Delta 1.2 MT,1197,Petrol,6.39,Manual,20.89,82,4.7,268.0719875
+Maruti Suzuki,Ignis,Delta 1.2 AMT,1197,Petrol,6.89,Automatic (AMT),20.89,82,4.7,248.6182874
+Maruti Suzuki,Ignis,Zeta 1.2 MT,1197,Petrol,6.97,Manual,20.89,82,4.7,245.7647059
+Maruti Suzuki,Ignis,Zeta 1.2 MT Dual Tone,1197,Petrol,7.11,Manual,20.89,82,4.7,240.9254571
+Maruti Suzuki,Ignis,Zeta 1.2 AMT,1197,Petrol,7.47,Automatic (AMT),20.89,82,4.7,229.3145917
+Maruti Suzuki,Ignis,Zeta 1.2 AMT Dual Tone,1197,Petrol,7.61,Automatic (AMT),20.89,82,4.7,225.0959264
+Maruti Suzuki,Ignis,Alpha 1.2 MT,1197,Petrol,7.62,Manual,20.89,82,4.7,224.8005249
+Maruti Suzuki,Ignis,Alpha 1.2 MT Dual Tone,1197,Petrol,7.76,Manual,20.89,82,4.7,220.7448454
+Maruti Suzuki,Ignis,Alpha 1.2 AMT,1197,Petrol,8.12,Automatic (AMT),20.89,82,4.7,210.9581281
+Maruti Suzuki,Ignis,Alpha 1.2 AMT Dual Tone,1197,Petrol,8.26,Automatic (AMT),20.89,82,4.7,207.3825666
+Maruti Suzuki,Jimny,Zeta MT,1462,Petrol,12.76,Manual,16.94,103,3.5,136.7413793
+Maruti Suzuki,Jimny,Alpha MT,1462,Petrol,13.71,Manual,16.94,103,3.5,127.266229
+Maruti Suzuki,Jimny,Zeta AT,1462,Petrol,13.86,Automatic (TC),16.39,103,3.5,121.8015873
+Maruti Suzuki,Jimny,Alpha MT Dual Tone,1462,Petrol,13.87,Manual,16.94,103,3.5,125.7981255
+Maruti Suzuki,Jimny,Alpha AT,1462,Petrol,14.81,Automatic (TC),16.39,103,3.5,113.9885213
+Maruti Suzuki,Jimny,Alpha AT Dual Tone,1462,Petrol,14.97,Automatic (TC),16.39,103,3.5,112.7702071
+Maruti Suzuki,S-Presso,Std (O),998,Petrol,4.26,Manual,24.12,66,4.4,373.6901408
+Maruti Suzuki,S-Presso,Lxi (O),998,Petrol,4.99,Manual,24.12,66,4.4,319.0220441
+Maruti Suzuki,S-Presso,VXi (O),998,Petrol,5.21,Manual,24.76,66,4.4,313.6583493
+Maruti Suzuki,S-Presso,Vxi Plus (O),998,Petrol,5.5,Manual,24.76,66,4.4,297.12
+Maruti Suzuki,S-Presso,VXi (O) AMT,998,Petrol,5.72,Automatic (AMT),25.3,66,4.4,291.9230769
+Maruti Suzuki,S-Presso,LXi (O) S-CNG,998,CNG,5.91,Manual,32.73,56,4.4,310.1319797
+Maruti Suzuki,S-Presso,VXi Plus (O) AMT,998,Petrol,6.01,Automatic (AMT),25.3,66,4.4,277.8369384
+Maruti Suzuki,S-Presso,VXi (O) S-CNG,998,CNG,6.11,Manual,32.73,56,4.4,299.9803601
+Maruti Suzuki,Eeco,5 STR STD (O),1197,Petrol,5.7,Manual,19.71,81,4.6,280.0894737
+Maruti Suzuki,Eeco,6 STR STD (O),1197,Petrol,5.98,Manual,19.71,81,4.6,266.9749164
+Maruti Suzuki,Eeco,5 STR AC (O),1197,Petrol,6.06,Manual,19.71,81,4.6,263.450495
+Maruti Suzuki,Eeco,5 STR AC (O) CNG,1197,CNG,6.96,Manual,26.78,71,4.6,273.1867816
+Mahindra,XUV 3XO,MX1 1.2,1197,Petrol,7.99,Manual,18.89,110,4.6,260.0625782
+Mahindra,XUV 3XO,MX2 Pro 1.2,1197,Petrol,9.39,Manual,18.89,110,4.6,221.2886049
+Mahindra,XUV 3XO,MX3 1.2,1197,Petrol,9.74,Manual,18.89,110,4.6,213.3367556
+Mahindra,XUV 3XO,MX2 1.5,1497,Diesel,9.99,Manual,20.6,115,4.6,237.1371371
+Mahindra,XUV 3XO,MX3 Pro 1.2,1197,Petrol,9.99,Manual,18.89,110,4.6,207.997998
+Mahindra,XUV 3XO,MX2 Pro 1.2 AT,1197,Petrol,10.39,Automatic (TC),17.96,110,4.6,190.1443696
+Mahindra,XUV 3XO,MX2 Pro 1.5,1497,Diesel,10.49,Manual,20.6,115,4.6,225.8341277
+Mahindra,XUV 3XO,MX3 1.5,1497,Diesel,10.99,Manual,20.6,115,4.6,215.5595996
+Mahindra,XUV 3XO,AX5 1.2,1197,Petrol,11.19,Manual,18.89,110,4.6,185.6925827
+Mahindra,XUV 3XO,MX3 Pro 1.5,1497,Diesel,11.39,Manual,20.6,115,4.6,207.9894644
+Mahindra,XUV 3XO,MX3 1.2 AT,1197,Petrol,11.4,Automatic (TC),17.96,110,4.6,173.2982456
+Mahindra,XUV 3XO,MX3 Pro 1.2 AT,1197,Petrol,11.69,Automatic (TC),17.96,110,4.6,168.9991446
+Mahindra,XUV 3XO,MX3 1.5 Autoshift Plus,1497,Diesel,11.79,Automatic (AMT),21.2,115,4.6,206.7854114
+Mahindra,XUV 3XO,AX5 1.5,1497,Diesel,12.19,Manual,20.6,115,4.6,194.3396226
+Mahindra,XUV 3XO,AX5L 1.2,1197,Petrol,12.44,Manual,20.1,129,4.6,208.4324759
+Mahindra,XUV 3XO,AX7 1.2,1197,Petrol,12.57,Manual,20.1,129,4.6,206.2768496
+Mahindra,XUV 3XO,AX5 1.2 AT,1197,Petrol,12.69,Automatic (TC),17.96,110,4.6,155.6816391
+Mahindra,XUV 3XO,AX5 1.5 Autoshift Plus,1497,Diesel,12.99,Automatic (AMT),21.2,115,4.6,187.6828329
+Mahindra,XUV 3XO,AX7 1.5,1497,Diesel,13.69,Manual,20.6,115,4.6,173.046019
+Mahindra,XUV 3XO,AX5L 1.2 AT,1197,Petrol,13.94,Automatic (TC),18.2,129,4.6,168.4218077
+Mahindra,XUV 3XO,AX7L 1.2,1197,Petrol,13.99,Manual,20.1,129,4.6,185.3395282
+Mahindra,XUV 3XO,AX7 1.2 AT,1197,Petrol,13.99,Automatic (TC),18.2,129,4.6,167.8198713
+Mahindra,XUV 3XO,AX7 1.5 Autoshift Plus,1497,Diesel,14.49,Automatic (AMT),21.2,115,4.6,168.2539683
+Mahindra,XUV 3XO,AX7L 1.5,1497,Diesel,14.99,Manual,20.6,115,4.6,158.0386925
+Mahindra,XUV 3XO,AX7L 1.2 AT,1197,Petrol,15.57,Automatic (TC),18.2,129,4.6,150.7899807
+Mahindra,XUV700,MX MT 7 STR,1997,Petrol,14.49,Manual,16,197,4.6,217.5293306
+Mahindra,XUV700,MX MT 7 STR,2184,Diesel,14.99,Manual,14.6,153,4.6,149.0193462
+Mahindra,XUV700,MX MT 7 STR (ESP),1997,Petrol,14.99,Manual,16,197,4.6,210.2735157
+Mahindra,XUV700,MX MT 7 STR (ESP),2184,Diesel,15.49,Manual,14.6,153,4.6,144.2091672
+Mahindra,XUV700,AX5 Select MT 7 STR,1997,Petrol,16.89,Manual,16,197,4.6,186.6193014
+Mahindra,XUV700,AX5 Select MT 7 STR (ESP),1997,Petrol,17.39,Manual,16,197,4.6,181.253594
+Mahindra,XUV700,AX5 Select MT 7 STR,2184,Diesel,17.74,Manual,14.6,182,4.6,149.7857948
+Mahindra,XUV700,AX5 Select MT 7 STR (ESP),2184,Diesel,18.24,Manual,14.6,182,4.6,145.6798246
+Mahindra,XUV700,AX5 MT 7 STR,1997,Petrol,18.34,Manual,16,197,4.6,171.8647764
+Mahindra,XUV700,AX5 Select AT 7 STR,1997,Petrol,18.64,Automatic (TC),13,197,4.6,137.3927039
+Mahindra,XUV700,AX5 MT 7 STR (ESP),1997,Petrol,18.84,Manual,16,197,4.6,167.3036093
+Mahindra,XUV700,AX5 MT 7 STR,2184,Diesel,19.04,Manual,14.6,182,4.6,139.5588235
+Mahindra,XUV700,AX5 Select AT 7 STR,2184,Diesel,19.24,Automatic (TC),14.77,182,4.6,139.7162162
+Mahindra,XUV700,AX7 MT 7 STR,1997,Petrol,19.49,Manual,16,197,4.6,161.723961
+Mahindra,XUV700,AX7 MT 7 STR Dual Tone,1997,Petrol,19.64,Manual,16,197,4.6,160.4887984
+Mahindra,XUV700,AX7 MT 7 STR Ebony Limited Edition,1997,Petrol,19.64,Manual,16,197,4.6,160.4887984
+Mahindra,XUV700,AX7 MT 6 STR,1997,Petrol,19.69,Manual,16,197,4.6,160.0812595
+Mahindra,XUV700,AX7 MT 6 STR Dual Tone,1997,Petrol,19.84,Manual,16,197,4.6,158.8709677
+Mahindra,XUV700,AX7 MT 6 STR Ebony Limited Edition,1997,Petrol,19.84,Manual,16,197,4.6,158.8709677
+Mahindra,XUV700,AX5 AT 7 STR,1997,Petrol,19.94,Automatic (TC),13,197,4.6,128.4353059
+Mahindra,XUV700,AX7 MT 7 STR,2184,Diesel,19.99,Manual,14.6,182,4.6,132.9264632
+Mahindra,XUV700,AX7 MT 7 STR Dual Tone,2184,Diesel,20.14,Manual,14.6,182,4.6,131.9364449
+Mahindra,XUV700,AX7 MT 7 STR Ebony Limited Edition,2184,Diesel,20.14,Manual,14.6,182,4.6,131.9364449
+Mahindra,XUV700,AX7 MT 6 STR,2184,Diesel,20.19,Manual,14.6,182,4.6,131.6097078
+Mahindra,XUV700,AX7 MT 6 STR Ebony Limited Edition,2184,Diesel,20.34,Manual,14.6,182,4.6,130.6391347
+Mahindra,XUV700,AX7 MT 6 STR Dual Tone,2184,Diesel,20.34,Manual,14.6,182,4.6,130.6391347
+Mahindra,XUV700,AX5 AT 7 STR,2184,Diesel,20.64,Automatic (TC),14.77,182,4.6,130.2393411
+Mahindra,XUV700,AX7 AT 7 STR,1997,Petrol,20.99,Automatic (TC),13,197,4.6,122.0104812
+Mahindra,XUV700,AX7 AT 7 STR Ebony Limited Edition,1997,Petrol,21.14,Automatic (TC),13,197,4.6,121.1447493
+Mahindra,XUV700,AX7 AT 6 STR,1997,Petrol,21.19,Automatic (TC),13,197,4.6,120.8588957
+Mahindra,XUV700,AX7 AT 6 STR Ebony Limited Edition,1997,Petrol,21.34,Automatic (TC),13,197,4.6,120.0093721
+Mahindra,XUV700,AX7 AT 7 STR Dual Tone,1997,Petrol,21.59,Automatic (TC),13,197,4.6,118.6197314
+Mahindra,XUV700,AX7 AT 6 STR Dual Tone,1997,Petrol,21.64,Automatic (TC),13,197,4.6,118.3456562
+Mahindra,XUV700,AX7 AT 7 STR,2184,Diesel,21.69,Automatic (TC),14.77,182,4.6,123.934532
+Mahindra,XUV700,AX7 AT 7 STR Ebony Limited Edition,2184,Diesel,21.79,Automatic (TC),14.77,182,4.6,123.3657641
+Mahindra,XUV700,AX7 AT 6 STR,2184,Diesel,21.89,Automatic (TC),14.77,182,4.6,122.8021928
+Mahindra,XUV700,AX7 AT 6 STR Ebony Limited Edition,2184,Diesel,22.04,Automatic (TC),14.77,182,4.6,121.9664247
+Mahindra,XUV700,AX7 Luxury Pack MT 7 STR,2184,Diesel,22.24,Manual,14.6,182,4.6,119.4784173
+Mahindra,XUV700,AX7 AT 7 STR Dual Tone,2184,Diesel,22.29,Automatic (TC),14.77,182,4.6,120.5984747
+Mahindra,XUV700,AX7 Luxury Pack MT 7 STR Ebony Limited Edition,2184,Diesel,22.39,Manual,14.6,182,4.6,118.6779812
+Mahindra,XUV700,AX7 Luxury Pack MT 6 STR,2184,Diesel,22.49,Manual,14.6,182,4.6,118.150289
+Mahindra,XUV700,AX7 AT 6 STR Dual Tone,2184,Diesel,22.49,Automatic (TC),14.77,182,4.6,119.5260116
+Mahindra,XUV700,AX7 Luxury Pack MT 6 STR Ebony Limited Edition,2184,Diesel,22.64,Manual,14.6,182,4.6,117.3674912
+Mahindra,XUV700,AX7 Luxury Pack 7 STR Blaze Editon MT,2184,Diesel,22.74,Manual,14.6,182,4.6,116.8513632
+Mahindra,XUV700,AX7 AT AWD 7 STR,2184,Diesel,22.89,Automatic (TC),14.77,182,4.6,117.4373089
+Mahindra,XUV700,AX7 AT AWD 7 STR Ebony Limited Edition,2184,Diesel,23.04,Automatic (TC),14.77,182,4.6,116.6727431
+Mahindra,XUV700,AX7 Luxury Pack MT 7 STR Dual Tone,2184,Diesel,23.14,Manual,14.6,182,4.6,114.8314607
+Mahindra,XUV700,AX7 Luxury Pack AT 7 STR,1997,Petrol,23.19,Automatic (TC),13,197,4.6,110.4355326
+Mahindra,XUV700,AX7 Luxury Pack AT 7 STR Ebony Limited Edition,1997,Petrol,23.34,Automatic (TC),13,197,4.6,109.7257926
+Mahindra,XUV700,AX7 Luxury Pack AT 6 STR,1997,Petrol,23.39,Automatic (TC),13,197,4.6,109.4912356
+Mahindra,XUV700,AX7 Luxury Pack MT 6 STR Dual Tone,2184,Diesel,23.39,Manual,14.6,182,4.6,113.6041043
+Mahindra,XUV700,AX7 AT AWD 7 STR Dual Tone,2184,Diesel,23.49,Automatic (TC),14.77,182,4.6,114.437633
+Mahindra,XUV700,AX7 Luxury Pack AT 6 STR Ebony Limited Edition,1997,Petrol,23.54,Automatic (TC),13,197,4.6,108.7935429
+Mahindra,XUV700,AX7 Luxury Pack 7 STR Blaze Editon AT,1997,Petrol,23.64,Automatic (TC),13,197,4.6,108.3333333
+Mahindra,XUV700,AX7 Luxury Pack AT 7 STR,2184,Diesel,23.99,Automatic (TC),14.77,182,4.6,112.0525219
+Mahindra,XUV700,AX7 Luxury Pack AT 7 STR Dual Tone,1997,Petrol,24.09,Automatic (TC),13,197,4.6,106.3096721
+Mahindra,XUV700,AX7 Luxury Pack 7 STR Blaze Editon AT,2184,Diesel,24.14,Automatic (TC),14.77,182,4.6,111.3562552
+Mahindra,XUV700,AX7 Luxury Pack AT 7 STR Ebony Limited Edition,2184,Diesel,24.14,Automatic (TC),14.77,182,4.6,111.3562552
+Mahindra,XUV700,AX7 Luxury Pack AT 6 STR,2184,Diesel,24.19,Automatic (TC),14.77,182,4.6,111.1260852
+Mahindra,XUV700,AX7 Luxury Pack AT 6 STR Dual Tone,1997,Petrol,24.29,Automatic (TC),13,197,4.6,105.4343351
+Mahindra,XUV700,AX7 Luxury Pack AT 6 STR Ebony Limited Edition,2184,Diesel,24.34,Automatic (TC),14.77,182,4.6,110.441249
+Mahindra,XUV700,AX7 Luxury Pack AT 7 STR Dual Tone,2184,Diesel,24.89,Automatic (TC),14.77,182,4.6,108.0008035
+Mahindra,XUV700,AX7 Luxury Pack AT AWD 7 STR,2184,Diesel,24.99,Automatic (TC),14.77,182,4.6,107.5686275
+Mahindra,XUV700,AX7 Luxury Pack AT 6 STR Dual Tone,2184,Diesel,25.09,Automatic (TC),14.77,182,4.6,107.1398964
+Mahindra,XUV700,AX7 Luxury Pack AT AWD 7 STR Ebony Limited Edition,2198,Diesel,25.14,Automatic (TC),14.77,182,4.6,106.9268099
+Mahindra,XUV700,AX7 Luxury Pack AT AWD 7 STR Dual Tone,2184,Diesel,25.89,Automatic (TC),14.77,182,4.6,103.8292777
+Mahindra,Scorpio N,Z2 MT 7 STR,1997,Petrol,13.99,Manual,15,200,4.7,214.4388849
+Mahindra,Scorpio N,Z2 MT 7 STR (ESP),1997,Petrol,14.35,Manual,15,200,4.7,209.0592334
+Mahindra,Scorpio N,Z2 MT 7 STR,2184,Diesel,14.4,Manual,15.25,130,4.7,137.6736111
+Mahindra,Scorpio N,Z2 MT 7 STR (ESP),2184,Diesel,14.9,Manual,15.25,130,4.7,133.0536913
+Mahindra,Scorpio N,Z4 MT 7 STR,1997,Petrol,15.64,Manual,15,200,4.7,191.8158568
+Mahindra,Scorpio N,Z4 MT 7 STR (ESP),1997,Petrol,15.99,Manual,15,200,4.7,187.6172608
+Mahindra,Scorpio N,Z4 MT 2WD 7 STR,2184,Diesel,16,Manual,15.25,130,4.7,123.90625
+Mahindra,Scorpio N,Z4 MT 2WD 7 STR (ESP),2184,Diesel,16.5,Manual,15.25,130,4.7,120.1515152
+Mahindra,Scorpio N,Z6 MT 2WD 7 STR,2184,Diesel,17.01,Manual,15.25,172,4.7,154.2034098
+Mahindra,Scorpio N,Z4 AT 7 STR,1997,Petrol,17.2,Automatic (TC),12.12,200,4.7,140.9302326
+Mahindra,Scorpio N,Z8 Select MT,1997,Petrol,17.34,Manual,15,200,4.7,173.0103806
+Mahindra,Scorpio N,Z4 AT 2WD 7 STR,2184,Diesel,17.7,Automatic (TC),14.67,172,4.7,142.5559322
+Mahindra,Scorpio N,Z4 MT 4WD 7 STR,2184,Diesel,18.16,Manual,15.25,172,4.7,144.438326
+Mahindra,Scorpio N,Z8 Select MT 2WD,2184,Diesel,18.34,Manual,15.25,172,4.7,143.0207197
+Mahindra,Scorpio N,Z4 MT 4WD 7 STR (ESP),2184,Diesel,18.66,Manual,15.25,172,4.7,140.56806
+Mahindra,Scorpio N,Z6 AT 2WD 7 STR,2184,Diesel,18.7,Automatic (TC),14.67,172,4.7,134.9326203
+Mahindra,Scorpio N,Z8 Select AT,1997,Petrol,18.84,Automatic (TC),12.12,200,4.7,128.6624204
+Mahindra,Scorpio N,Z8 MT 7 STR,1997,Petrol,18.99,Manual,15,200,4.7,157.9778831
+Mahindra,Scorpio N,Z8 MT 7 STR Carbon Edition,1997,Petrol,19.19,Manual,15,200,4.7,156.3314226
+Mahindra,Scorpio N,Z8 Select AT 2WD,2184,Diesel,19.34,Automatic (TC),14.67,172,4.7,130.467425
+Mahindra,Scorpio N,Z8 MT 2WD 7 STR,2184,Diesel,19.45,Manual,15.25,172,4.7,134.8586118
+Mahindra,Scorpio N,Z8 MT 2WD 7 STR Carbon Edition,2184,Diesel,19.65,Manual,15.25,172,4.7,133.4860051
+Mahindra,Scorpio N,Z8 AT 7 STR,1997,Petrol,20.5,Automatic (TC),12.12,200,4.7,118.2439024
+Mahindra,Scorpio N,Z8 L MT 7 STR,1997,Petrol,20.69,Manual,15,200,4.7,144.9975834
+Mahindra,Scorpio N,Z8 AT 7 STR Carbon Edition,1997,Petrol,20.7,Automatic (TC),12.12,200,4.7,117.1014493
+Mahindra,Scorpio N,Z8 L MT 7 STR Carbon Edition,1997,Petrol,20.89,Manual,15,200,4.7,143.6093825
+Mahindra,Scorpio N,Z8 L MT 6 STR,1997,Petrol,20.94,Manual,15,200,4.7,143.2664756
+Mahindra,Scorpio N,Z8 AT 2WD 7 STR,2184,Diesel,20.98,Automatic (TC),14.67,172,4.7,120.2688275
+Mahindra,Scorpio N,Z8 L MT 2WD 7 STR,2184,Diesel,21.1,Manual,15.25,172,4.7,124.3127962
+Mahindra,Scorpio N,Z8 AT 2WD 7 STR Carbon Edition,2184,Diesel,21.18,Automatic (TC),14.67,172,4.7,119.1331445
+Mahindra,Scorpio N,Z8 L MT 2WD 7 STR Carbon Edition,2184,Diesel,21.3,Manual,15.25,172,4.7,123.1455399
+Mahindra,Scorpio N,Z8 L MT 2WD 6 STR,2184,Diesel,21.44,Manual,15.25,172,4.7,122.3414179
+Mahindra,Scorpio N,Z8 MT 4WD 7 STR,2184,Diesel,21.52,Manual,15.25,172,4.7,121.8866171
+Mahindra,Scorpio N,Z8 MT 4WD 7 STR Carbon Edition,2184,Diesel,21.72,Manual,15.25,172,4.7,120.7642726
+Mahindra,Scorpio N,Z8 L AT 7 STR,1997,Petrol,22.11,Automatic (TC),12.12,200,4.7,109.6336499
+Mahindra,Scorpio N,Z8 L AT 6 STR,1997,Petrol,22.3,Automatic (TC),12.12,200,4.7,108.6995516
+Mahindra,Scorpio N,Z8 L AT 7 STR Carbon Edition,1997,Petrol,22.31,Automatic (TC),12.12,200,4.7,108.6508292
+Mahindra,Scorpio N,Z8 L AT 2WD 7 STR,2184,Diesel,22.56,Automatic (TC),14.67,172,4.7,111.8457447
+Mahindra,Scorpio N,Z8 L AT 2WD 7 STR Carbon Edition,2184,Diesel,22.76,Automatic (TC),14.67,172,4.7,110.8629174
+Mahindra,Scorpio N,Z8 L AT 2WD 6 STR,2184,Diesel,22.8,Automatic (TC),14.67,172,4.7,110.6684211
+Mahindra,Scorpio N,Z8 L MT 4WD 7 STR,2184,Diesel,23.13,Manual,15.25,172,4.7,113.4025076
+Mahindra,Scorpio N,Z8 AT 4WD 7 STR,2184,Diesel,23.24,Automatic (TC),14.67,172,4.7,108.5731497
+Mahindra,Scorpio N,Z8 L MT 4WD 7 STR Carbon Edition,2184,Diesel,23.33,Manual,15.25,172,4.7,112.4303472
+Mahindra,Scorpio N,Z8 AT 4WD 7 STR Carbon Edition,2184,Diesel,23.44,Automatic (TC),14.67,172,4.7,107.6467577
+Mahindra,Scorpio N,Z8 L AT 4WD 7 STR,2184,Diesel,24.69,Automatic (TC),14.67,172,4.7,102.1968408
+Mahindra,Scorpio N,Z8 L AT 4WD 7 STR Carbon Edition,2184,Diesel,24.89,Automatic (TC),14.67,172,4.7,101.3756529
+Mahindra,Thar Roxx,MX1 MT 2WD,1997,Petrol,12.99,Manual,12.4,160,4.7,152.7328714
+Mahindra,Thar Roxx,MX1 MT 2WD,2184,Diesel,13.99,Manual,15.2,150,4.7,162.9735525
+Mahindra,Thar Roxx,MX3 AT 2WD,1997,Petrol,14.99,Automatic (TC),12.4,174,4.7,143.9359573
+Mahindra,Thar Roxx,MX3 MT 2WD,2184,Diesel,15.99,Manual,15.2,150,4.7,142.5891182
+Mahindra,Thar Roxx,MX5 MT 2WD,1997,Petrol,16.49,Manual,12.4,160,4.7,120.3153426
+Mahindra,Thar Roxx,AX3 L MT 2WD,2184,Diesel,16.99,Manual,15.2,150,4.7,134.1965862
+Mahindra,Thar Roxx,MX5 MT 2WD,2184,Diesel,16.99,Manual,15.2,150,4.7,134.1965862
+Mahindra,Thar Roxx,MX3 AT 2WD,2184,Diesel,17.49,Automatic (TC),15.2,150,4.7,130.3602058
+Mahindra,Thar Roxx,MX5 AT 2WD,1997,Petrol,17.99,Automatic (TC),12.4,174,4.7,119.9332963
+Mahindra,Thar Roxx,MX5 AT 2WD,2184,Diesel,18.49,Automatic (TC),15.2,150,4.7,123.3098972
+Mahindra,Thar Roxx,AX5 L AT 2WD,2184,Diesel,18.99,Automatic (TC),15.2,172,4.7,137.6724592
+Mahindra,Thar Roxx,MX5 MT 4WD Mocha Intrs,2184,Diesel,19.09,Manual,15.2,150,4.7,119.4342588
+Mahindra,Thar Roxx,MX5 MT 4WD,2184,Diesel,19.09,Manual,15.2,150,4.7,119.4342588
+Mahindra,Thar Roxx,AX7 L MT 2WD,2184,Diesel,19.49,Manual,15.2,150,4.7,116.9830682
+Mahindra,Thar Roxx,AX7 L AT 2WD,1997,Petrol,20.49,Automatic (TC),12.4,174,4.7,105.3001464
+Mahindra,Thar Roxx,AX7 L AT 2WD,2184,Diesel,20.99,Automatic (TC),15.2,172,4.7,124.5545498
+Mahindra,Thar Roxx,AX5 L AT 4WD,2184,Diesel,21.09,Automatic(TC),15.2,172,4.7,123.963964
+Mahindra,Thar Roxx,AX5 L AT 4WD Mocha Intrs,2184,Diesel,21.09,Automatic(TC),15.2,172,4.7,123.963964
+Mahindra,Thar Roxx,AX7 L MT 4WD,2184,Diesel,21.59,Manual,15.2,150,4.7,105.6044465
+Mahindra,Thar Roxx,AX7 L MT 4WD Mocha Intrs,2184,Diesel,21.59,Manual,15.2,150,4.7,105.6044465
+Mahindra,Thar Roxx,AX7 L AT 4WD,2184,Diesel,23.09,Automatic(TC),15.2,172,4.7,113.226505
+Mahindra,Thar Roxx,AX7 L AT 4WD Mocha Intrs,2184,Diesel,23.09,Automatic(TC),15.2,172,4.7,113.226505
+Mahindra,Thar,AX (O) Hard Top MT RWD,1497,Diesel,11.5,Manual,17,117,4.7,172.9565217
+Mahindra,Thar,LX Hard Top MT RWD,1497,Diesel,12.99,Manual,17,117,4.7,153.1177829
+Mahindra,Thar,LX Hard Top AT RWD,1997,Petrol,14.25,Automatic (TC),17,150,4.7,178.9473684
+Mahindra,Thar,LX Hard Top MT 4WD,1997,Petrol,15.2,Manual,17,150,4.7,167.7631579
+Mahindra,Thar,LX Hard Top MT 4WD,2184,Diesel,15.95,Manual,15,130,4.7,122.2570533
+Mahindra,Thar,LX Hard Top AT 4WD,1997,Petrol,16.8,Automatic (TC),17,150,4.7,151.7857143
+Mahindra,Thar,LX Hard Top AT 4WD,2184,Diesel,17.4,Automatic (TC),15,130,4.7,112.0689655
+Mahindra,Scorpio,S MT 7STR,2184,Diesel,13.62,Manual,15.06,130,4.8,143.7444934
+Mahindra,Scorpio,S MT 9STR,2184,Diesel,13.87,Manual,15.06,130,4.8,141.1535689
+Mahindra,Scorpio,S11 MT 7S CC,2184,Diesel,17.35,Manual,15.06,130,4.8,112.8414986
+Mahindra,Scorpio,S11 MT 7S,2184,Diesel,17.5,Manual,15.06,130,4.8,111.8742857
+Mahindra,Bolero Neo,N4,1493,Diesel,9.95,Manual,17.25,100,4.6,173.3668342
+Mahindra,Bolero Neo,N8,1493,Diesel,10.64,Manual,17.25,100,4.6,162.1240602
+Mahindra,Bolero Neo,N10,1493,Diesel,11.48,Manual,17.25,100,4.6,150.261324
+Mahindra,Bolero Neo,N10 (O),1493,Diesel,12.16,Manual,17.25,100,4.6,141.8585526
+Mahindra,Bolero,B4,1493,Diesel,9.79,Manual,16,75,4.6,122.5740552
+Mahindra,Bolero,B6,1493,Diesel,10,Manual,16,75,4.6,120
+Mahindra,Bolero,B6 (O),1493,Diesel,10.91,Manual,16,75,4.6,109.9908341
+Mahindra,Bolero Neo Plus,P4,2184,Diesel,11.39,Manual,16,118,4.6,165.7594381
+Mahindra,Bolero Neo Plus,P10,2184,Diesel,12.49,Manual,16,118,4.6,151.1609287
+Mahindra,Marazzo,M2 7 STR,1497,Diesel,14.59,Manual,16.5,121,4.3,136.8403016
+Mahindra,Marazzo,M2 8 STR,1497,Diesel,14.59,Manual,16.5,121,4.3,136.8403016
+Mahindra,Marazzo,M4 Plus 7 STR,1497,Diesel,15.86,Manual,16.5,121,4.3,125.8827238
+Mahindra,Marazzo,M4 Plus 8 STR,1497,Diesel,15.94,Manual,16.5,121,4.3,125.250941
+Mahindra,Marazzo,M6 Plus 7 STR,1497,Diesel,16.92,Manual,16.5,121,4.3,117.9964539
+Mahindra,Marazzo,M6 Plus 8 STR,1497,Diesel,17,Manual,16.5,121,4.3,117.4411765
+TATA,Nexon,Smart 1.2 5MT,1199,Petrol,8,Manual,16.75,118,4.6,247.0625
+TATA,Nexon,Smart Plus 1.2 5MT,1199,Petrol,8.9,Manual,16.75,118,4.6,222.0786517
+TATA,Nexon,Smart 1.2 iCNG 6MT,1199,CNG,8.9,Manual,16.75,99,4.6,186.3202247
+TATA,Nexon,Smart Plus (S) 1.2 5MT,1199,Petrol,9.2,Manual,16.75,118,4.6,214.8369565
+TATA,Nexon,Smart Plus 1.2 6AMT,1199,Petrol,9.6,Automatic (AMT),17.26,118,4.6,212.1541667
+TATA,Nexon,Pure Plus 1.2 6MT,1199,Petrol,9.7,Manual,16.75,118,4.6,203.7628866
+TATA,Nexon,Pure Plus (S) 1.2 6MT,1199,Petrol,10,Manual,16.75,118,4.6,197.65
+TATA,Nexon,Smart Plus 1.5 6MT,1497,Diesel,10,Manual,22.3,113,4.6,251.99
+TATA,Nexon,Smart Plus 1.2 iCNG 6MT,1199,CNG,10,Manual,16.75,99,4.6,165.825
+TATA,Nexon,Smart Plus (S) 1.5 6MT,1497,Diesel,10.3,Manual,22.3,113,4.6,244.6504854
+TATA,Nexon,Smart Plus (S) 1.2 iCNG 6MT,1199,CNG,10.3,Manual,16.75,99,4.6,160.9951456
+TATA,Nexon,Pure Plus 1.2  6AMT,1199,Petrol,10.4,Automatic (AMT),17.26,118,4.6,195.8346154
+TATA,Nexon,Pure Plus 1.2 iCNG 6MT,1199,CNG,10.7,Manual,16.75,99,4.6,154.9766355
+TATA,Nexon,Pure Plus (S) 1.2  6AMT,1199,Petrol,10.7,Automatic (AMT),17.26,118,4.6,190.3439252
+TATA,Nexon,Pure Plus 1.5 6MT,1497,Diesel,11,Manual,22.3,113,4.6,229.0818182
+TATA,Nexon,Creative 1.2 6MT,1199,Petrol,11,Manual,16.75,118,4.6,179.6818182
+TATA,Nexon,Creative Plus (S) 1.2 6MT,1199,Petrol,11.3,Manual,16.75,118,4.6,174.9115044
+TATA,Nexon,Pure Plus (S) 1.5 6MT,1497,Diesel,11.3,Manual,22.3,113,4.6,223
+TATA,Nexon,Creative Plus (S) Dark Edition 1.2 6MT,1199,Petrol,11.7,Manual,16.75,118,4.6,168.9316239
+TATA,Nexon,Pure Plus 1.5 6AMT,1497,Diesel,11.7,Automatic (AMT),24.08,113,4.6,232.5675214
+TATA,Nexon,Creative 1.2 6AMT,1199,Petrol,11.7,Automatic (AMT),17.26,118,4.6,174.0752137
+TATA,Nexon,Creative 1.2 iCNG 6MT,1199,CNG,12,Manual,16.75,99,4.6,138.1875
+TATA,Nexon,Creative Plus (S) 1.2 6AMT,1199,Petrol,12,Automatic (AMT),17.26,118,4.6,169.7233333
+TATA,Nexon,Creative 1.2 7DCA,1199,Petrol,12.2,Automatic (DCT),17,118,4.6,164.4262295
+TATA,Nexon,Creative Plus (PS) 1.2 6MT Dual Tone,1199,Petrol,12.3,Manual,16.75,118,4.6,160.6910569
+TATA,Nexon,Creative Plus (S) 1.2 6AMT Dark Edition,1199,Petrol,12.4,Automatic (AMT),17.26,118,4.6,164.2483871
+TATA,Nexon,Creative 1.5 6MT,1497,Diesel,12.4,Manual,22.3,113,4.6,203.2177419
+TATA,Nexon,Creative Plus (S) 1.2 iCNG 6MT Dark Edition,1199,CNG,12.7,Manual,16.75,99,4.6,130.5708661
+TATA,Nexon,Creative Plus (S) 1.5 6MT,1497,Diesel,12.7,Manual,22.3,113,4.6,198.4173228
+TATA,Nexon,Creative Plus (S) 1.5 6MT Dark Edition,1497,Diesel,13.1,Manual,22.3,113,4.6,192.3587786
+TATA,Nexon,Creative 1.5 6AMT,1497,Diesel,13.1,Automatic (AMT),24.08,113,4.6,207.7129771
+TATA,Nexon,Creative Plus (PS) 1.2 iCNG 6MT Dual Tone,1199,CNG,13.3,Manual,16.75,99,4.6,124.6804511
+TATA,Nexon,Creative Plus (S) 1.5 6AMT,1497,Diesel,13.4,Automatic (AMT),24.08,113,4.6,203.0626866
+TATA,Nexon,Fearless Plus (PS) Dark Edition 1.2 6MT,1199,Petrol,13.5,Manual,16.75,118,4.6,146.4074074
+TATA,Nexon,Creative Plus (PS) 1.2 DCA Dual Tone,1199,Petrol,13.5,Automatic (DCT),17,118,4.6,148.5925926
+TATA,Nexon,Fearless Plus (PS) 1.5 6MT Dark Edition,1497,Diesel,13.5,Manual,22.3,113,4.6,186.6592593
+TATA,Nexon,Creative Plus (PS) 1.5 6MT Dual Tone,1497,Diesel,13.7,Manual,22.3,113,4.6,183.9343066
+TATA,Nexon,Fearless Plus (PS) 1.2 iCNG 6MT Dark Edition,1199,CNG,13.7,Manual,16.75,99,4.6,121.040146
+TATA,Nexon,Creative Plus (PS) 1.2 iCNG 6MT Dark Edition,1199,CNG,13.7,Manual,16.75,118,4.6,144.270073
+TATA,Nexon,Fearless Plus (PS) 1.5 6MT Dual Tone,1497,Diesel,13.7,Manual,22.3,113,4.6,183.9343066
+TATA,Nexon,Creative Plus (S) 1.5 6AMT Dark Edition,1497,Diesel,13.8,Automatic (AMT),24.08,113,4.6,197.1768116
+TATA,Nexon,Creative Plus (PS) 1.2 7DCA Dark Edition,1199,Petrol,13.9,Automatic (DCT),17,118,4.6,144.3165468
+TATA,Nexon,Fearless Plus (PS) 1.2 iCNG 6MT Dual Tone,1199,CNG,14.3,Manual,16.75,99,4.6,115.9615385
+TATA,Nexon,Creative Plus (PS) 1.5 6AMT Dual Tone,1497,Diesel,14.4,Automatic (AMT),24.08,113,4.6,188.9611111
+TATA,Nexon,Fearless Plus (PS) 1.2 DCA Dual Tone,1199,Petrol,14.5,Automatic (DCT),17,118,4.6,138.3448276
+TATA,Nexon,Fearless Plus (PS) 1.2 7DCA Dark Edition,1199,Petrol,14.7,Automatic (DCT),17,118,4.6,136.462585
+TATA,Nexon,Creative Plus (PS) 1.5 6AMT Dark Edition,1497,Diesel,14.8,Automatic (AMT),24.08,113,4.6,183.8540541
+TATA,Nexon,Fearless Plus (PS) 1.5 6AMT Dual Tone,1497,Diesel,15.4,Automatic (AMT),24.08,113,4.6,176.6909091
+TATA,Nexon,Fearless Plus (PS) 1.5 6AMT Dark Edition,1497,Diesel,15.6,Automatic (AMT),24.08,113,4.6,174.425641
+TATA,Punch,Pure MT,1199,Petrol,6.2,Manual,17.2,87,4.4,241.3548387
+TATA,Punch,Pure (O),1199,Petrol,6.82,Manual,17.2,87,4.4,219.4134897
+TATA,Punch,Adventure MT,1199,Petrol,7.17,Manual,17.2,87,4.4,208.7029289
+TATA,Punch,Pure iCNG,1199,CNG,7.3,Manual,17.39,72,4.4,171.5178082
+TATA,Punch,Adventure Plus,1199,Petrol,7.52,Manual,17.2,87,4.4,198.9893617
+TATA,Punch,Adventure (S),1199,Petrol,7.72,Manual,17.2,87,4.4,193.8341969
+TATA,Punch,Adventure AMT,1199,Petrol,7.77,Automatic (AMT),16.75,87,4.4,187.5482625
+TATA,Punch,Adventure Plus AMT,1199,Petrol,8.12,Automatic (AMT),16.75,87,4.4,179.4642857
+TATA,Punch,Adventure iCNG,1199,CNG,8.12,Manual,17.39,72,4.4,154.1970443
+TATA,Punch,Adventure Plus (S),1199,Petrol,8.22,Manual,17.2,87,4.4,182.0437956
+TATA,Punch,Adventure (S) AMT,1199,Petrol,8.32,Automatic (AMT),16.75,87,4.4,175.1502404
+TATA,Punch,Accomplished Plus,1199,Petrol,8.42,Manual,17.2,87,4.4,177.719715
+TATA,Punch,Adventure Plus iCNG,1199,CNG,8.47,Manual,17.39,72,4.4,147.8252656
+TATA,Punch,Accomplished Plus Camo Edition MT,1199,Petrol,8.57,Manual,17.2,87,4.4,174.6091015
+TATA,Punch,Adventure (S) iCNG,1199,CNG,8.67,Manual,17.39,72,4.4,144.4152249
+TATA,Punch,Adventure Plus (S) AMT,1199,Petrol,8.82,Automatic (AMT),16.75,87,4.4,165.2210884
+TATA,Punch,Accomplished Plus (S),1199,Petrol,8.9,Manual,17.2,87,4.4,168.1348315
+TATA,Punch,Accomplished Plus AMT,1199,Petrol,9.02,Automatic (AMT),16.75,87,4.4,161.5576497
+TATA,Punch,Accomplished Plus (S) Camo Edition MT,1199,Petrol,9.07,Manual,17.2,87,4.4,164.983462
+TATA,Punch,Creative Plus,1199,Petrol,9.12,Manual,17.2,87,4.4,164.0789474
+TATA,Punch,Adventure Plus (S) iCNG,1199,CNG,9.17,Manual,17.39,72,4.4,136.5408942
+TATA,Punch,Accomplished Plus Camo Edition AMT,1199,Petrol,9.17,Automatic (AMT),16.75,87,4.4,158.91494
+TATA,Punch,Creative Plus Camo Edition MT,1199,Petrol,9.27,Manual,17.2,87,4.4,161.4239482
+TATA,Punch,Accomplished Plus (S) AMT,1199,Petrol,9.5,Automatic (AMT),16.75,87,4.4,153.3947368
+TATA,Punch,Accomplished Plus iCNG,1199,CNG,9.52,Manual,17.39,72,4.4,131.5210084
+TATA,Punch,Creative Plus (S),1199,Petrol,9.57,Manual,17.2,87,4.4,156.3636364
+TATA,Punch,Accomplished Plus iCNG Dual Tone,1199,CNG,9.67,Manual,17.39,72,4.4,129.4808687
+TATA,Punch,Accomplished Plus (S) Camo Edition AMT,1199,Petrol,9.67,Automatic (AMT),16.75,87,4.4,150.6980352
+TATA,Punch,Creative Plus (S) Camo Edition MT,1199,Petrol,9.72,Manual,17.2,87,4.4,153.9506173
+TATA,Punch,Creative Plus AMT,1199,Petrol,9.72,Automatic (AMT),16.75,87,4.4,149.9228395
+TATA,Punch,Creative Plus Camo Edition AMT,1199,Petrol,9.87,Automatic (AMT),16.75,87,4.4,147.6443769
+TATA,Punch,Accomplished Plus (S) iCNG,1199,CNG,10,Manual,17.39,72,4.4,125.208
+TATA,Punch,Accomplished Plus (S) iCNG Dual Tone,1199,CNG,10.17,Manual,17.39,72,4.4,123.1150442
+TATA,Punch,Creative Plus (S) AMT,1199,Petrol,10.17,Automatic (AMT),16.75,87,4.4,143.2890855
+TATA,Punch,Creative Plus (S) Camo Edition AMT,1199,Petrol,10.32,Automatic (AMT),16.75,87,4.4,141.2063953
+TATA,Tiago,XE,1199,Petrol,5,Manual,19.01,85,4.5,323.17
+TATA,Tiago,XM,1199,Petrol,5.7,Manual,19.01,85,4.5,283.4824561
+TATA,Tiago,XE iCNG,1199,CNG,6,Manual,26.49,74,4.5,326.71
+TATA,Tiago,XT,1199,Petrol,6.3,Manual,19.01,85,4.5,256.484127
+TATA,Tiago,XM iCNG,1199,CNG,6.7,Manual,26.49,74,4.5,292.5761194
+TATA,Tiago,XTA,1199,Petrol,6.85,Automatic (AMT),19,85,4.5,235.7664234
+TATA,Tiago,XZ,1199,Petrol,6.9,Manual,19.01,85,4.5,234.1811594
+TATA,Tiago,XZ Plus,1199,Petrol,7.3,Manual,19.01,85,4.5,221.3493151
+TATA,Tiago,XT iCNG,1199,CNG,7.3,Manual,26.49,74,4.5,268.5287671
+TATA,Tiago,XZA,1199,Petrol,7.45,Automatic (AMT),19,85,4.5,216.7785235
+TATA,Tiago,XTA iCNG,1199,CNG,7.85,Automatic (AMT),28.06,74,4.5,264.5146497
+TATA,Tiago,XZ iCNG,1199,CNG,7.9,Manual,26.49,74,4.5,248.1341772
+TATA,Tiago,XZA iCNG,1199,CNG,8.45,Automatic (AMT),26.49,74,4.5,231.983432
+TATA,Curvv,Smart 1.2 Revotron 6MT,1199,Petrol,10,Manual,17.62,118,4.7,207.916
+TATA,Curvv,Pure Plus 1.2 Revotron 6MT,1199,Petrol,11.17,Manual,17.62,118,4.7,186.1378693
+TATA,Curvv,Smart 1.5 Kryojet 6MT,1497,Diesel,11.5,Manual,19.5,116,4.7,196.6956522
+TATA,Curvv,Pure Plus S 1.2 Revotron 6MT,1199,Petrol,11.87,Manual,17.62,118,4.7,175.1609099
+TATA,Curvv,Creative 1.2 Revotron 6MT,1199,Petrol,12.37,Manual,17.62,118,4.7,168.0808407
+TATA,Curvv,Pure Plus 1.5 Kryojet 6MT,1497,Diesel,12.67,Manual,19.5,116,4.7,178.5319653
+TATA,Curvv,Pure Plus 1.2 Revotron 7DCA,1199,Petrol,12.67,Automatic (DCT),17.4,118,4.7,162.0520916
+TATA,Curvv,Creative S 1.2 Revotron 6MT,1199,Petrol,12.87,Manual,17.62,118,4.7,161.5508936
+TATA,Curvv,Pure Plus S 1.5 Kryojet 6MT,1497,Diesel,13.37,Manual,19.5,116,4.7,169.184742
+TATA,Curvv,Pure Plus S 1.2 Revotron 7DCA,1199,Petrol,13.37,Automatic (DCT),17.4,118,4.7,153.5676889
+TATA,Curvv,Creative 1.2 Revotron 7DCA,1199,Petrol,13.87,Automatic (DCT),17.4,118,4.7,148.0317231
+TATA,Curvv,Creative 1.5 Kryojet 6MT,1497,Diesel,13.87,Manual,19.5,116,4.7,163.0857967
+TATA,Curvv,Creative Plus S 1.2 Revotron 6MT,1199,Petrol,13.87,Manual,17.62,118,4.7,149.9033886
+TATA,Curvv,Creative S 1.2 Hyperion GDI 6MT,1199,Petrol,14.17,Manual,17.62,123,4.7,152.9470713
+TATA,Curvv,Pure Plus 1.5 Kryojet 7DCA,1497,Diesel,14.17,Automatic (DCT),18.5,116,4.7,151.4467184
+TATA,Curvv,Creative S 1.2 Revotron 7DCA,1199,Petrol,14.37,Automatic (DCT),17.4,118,4.7,142.8810021
+TATA,Curvv,Creative S 1.5 Kryojet 6MT,1497,Diesel,14.37,Manual,19.5,116,4.7,157.4112735
+TATA,Curvv,Accomplished S 1.2 Revotron 6MT,1199,Petrol,14.87,Manual,17.62,118,4.7,139.8224613
+TATA,Curvv,Pure Plus S 1.5 Kryojet 7DCA,1497,Diesel,14.87,Automatic (DCT),18.5,116,4.7,144.3174176
+TATA,Curvv,Creative Plus S 1.2 Hyperion GDI 6MT,1199,Petrol,15.17,Manual,17.62,123,4.7,142.8648649
+TATA,Curvv,Creative Plus S 1.2 Revotron 7DCA,1199,Petrol,15.37,Automatic (DCT),17.4,118,4.7,133.5849057
+TATA,Curvv,Creative Plus S 1.5 Kryojet 6MT,1497,Diesel,15.37,Manual,19.5,116,4.7,147.1698113
+TATA,Curvv,Creative S 1.5 Kryojet 7DCA,1497,Diesel,15.87,Automatic (DCT),18.5,116,4.7,135.2236925
+TATA,Curvv,Accomplished S 1.2 Hyperion GDI 6MT,1199,Petrol,16.17,Manual,17.62,123,4.7,134.0296846
+TATA,Curvv,Accomplished S 1.2 Revotron 7DCA,1199,Petrol,16.37,Automatic (DCT),17.4,118,4.7,125.4245571
+TATA,Curvv,Accomplished S 1.5 Kryojet 6MT,1497,Diesel,16.37,Manual,19.5,116,4.7,138.1795968
+TATA,Curvv,Accomplished S 1.2 Hyperion GDI 6MT Dark Edition,1199,Petrol,16.49,Manual,17.62,123,4.7,131.4287447
+TATA,Curvv,Creative Plus S 1.2 Hyperion GDI 7DCA,1199,Petrol,16.67,Automatic (DCT),17.4,123,4.7,128.3863227
+TATA,Curvv,Accomplished S 1.5 Kryojet 6MT Dark Edition,1497,Diesel,16.69,Manual,19.5,116,4.7,135.5302576
+TATA,Curvv,Creative Plus S 1.5 Kryojet 7DCA,1497,Diesel,16.87,Automatic (DCT),18.5,116,4.7,127.2080616
+TATA,Curvv,Accomplished S 1.2 Hyperion GDI 7DCA,1199,Petrol,17.67,Automatic (DCT),17.4,123,4.7,121.1205433
+TATA,Curvv,Accomplished Plus A 1.2 Hyperion GDI 6MT,1199,Petrol,17.67,Manual,17.62,123,4.7,122.6519525
+TATA,Curvv,Accomplished Plus A 1.5 Kryojet 6MT,1497,Diesel,17.7,Manual,19.5,116,4.7,127.7966102
+TATA,Curvv,Accomplished S 1.5 Kryojet 7DCA,1497,Diesel,17.87,Automatic (DCT),18.5,116,4.7,120.0895355
+TATA,Curvv,Accomplished S 1.2 Hyperion GDI 7DCA Dark Edition,1199,Petrol,17.99,Automatic (DCT),17.4,123,4.7,118.9660923
+TATA,Curvv,Accomplished Plus A 1.2 Hyperion GDI 6MT Dark Edition,1199,Petrol,17.99,Manual,17.62,123,4.7,120.4702613
+TATA,Curvv,Accomplished Plus A 1.5 Kryojet 6MT Dark Edition,1497,Diesel,18.02,Manual,19.5,116,4.7,125.527192
+TATA,Curvv,Accomplished S 1.5 Kryojet 7DCA Dark Edition,1497,Diesel,18.19,Automatic (DCT),18.5,116,4.7,117.9769104
+TATA,Curvv,Accomplished Plus A 1.2 Hyperion GDI 7DCA,1199,Petrol,19.17,Automatic (DCT),17.4,123,4.7,111.6431925
+TATA,Curvv,Accomplished Plus A 1.5 Kryojet 7DCA,1497,Diesel,19.2,Automatic (DCT),18.5,116,4.7,111.7708333
+TATA,Curvv,Accomplished Plus A 1.2 Hyperion GDI l 7DCA Dark Edition,1199,Petrol,19.49,Automatic (DCT),17.4,123,4.7,109.8101591
+TATA,Curvv,Accomplished Plus A 1.5 Kryojet 7DCA Dark Edition,1497,Diesel,19.52,Automatic (DCT),18.5,116,4.7,109.9385246
+TATA,Harrier,Smart,1956,Diesel,15,Manual,16.8,168,4.7,188.16
+TATA,Harrier,Smart (O),1956,Diesel,15.85,Manual,16.8,168,4.7,178.0694006
+TATA,Harrier,Pure,1956,Diesel,16.85,Manual,16.8,168,4.7,167.5014837
+TATA,Harrier,Pure (O),1956,Diesel,17.35,Manual,16.8,168,4.7,162.6743516
+TATA,Harrier,Pure Plus,1956,Diesel,18.55,Manual,16.8,168,4.7,152.1509434
+TATA,Harrier,Pure Plus (S),1956,Diesel,18.85,Manual,16.8,168,4.7,149.729443
+TATA,Harrier,Pure Plus (S) Dark Edition,1956,Diesel,19.15,Manual,16.8,168,4.7,147.383812
+TATA,Harrier,Pure Plus AT,1956,Diesel,19.35,Automatic (TC),14.6,168,4.7,126.7596899
+TATA,Harrier,Adventure,1956,Diesel,19.55,Manual,16.8,168,4.7,144.3682864
+TATA,Harrier,Pure Plus (S) AT,1956,Diesel,19.85,Automatic (TC),14.6,168,4.7,123.5667506
+TATA,Harrier,Pure Plus (S) Dark Edition AT,1956,Diesel,20,Automatic (TC),14.6,168,4.7,122.64
+TATA,Harrier,Adventure Plus,1956,Diesel,21.05,Manual,16.8,168,4.7,134.0807601
+TATA,Harrier,Adventure Plus Dark Edition,1956,Diesel,21.55,Manual,16.8,168,4.7,130.9698376
+TATA,Harrier,Adventure Plus A,1956,Diesel,22.05,Manual,16.8,168,4.7,128
+TATA,Harrier,Adventure Plus AT,1956,Diesel,22.45,Automatic (TC),14.6,168,4.7,109.2561247
+TATA,Harrier,Fearless Dual Tone,1956,Diesel,22.85,Manual,16.8,168,4.7,123.5185996
+TATA,Harrier,Adventure Plus Dark Edition AT,1956,Diesel,22.95,Automatic (TC),14.6,168,4.7,106.875817
+TATA,Harrier,Fearless Dark Edition,1956,Diesel,23.35,Manual,16.8,168,4.7,120.8736617
+TATA,Harrier,Adventure Plus A AT,1956,Diesel,23.45,Automatic (TC),14.6,168,4.7,104.5970149
+TATA,Harrier,Fearless Dual Tone AT,1956,Diesel,24.25,Automatic (TC),14.6,168,4.7,101.1463918
+TATA,Harrier,Fearless Plus Dual Tone,1956,Diesel,24.35,Manual,16.8,168,4.7,115.9096509
+TATA,Harrier,Fearless Dark Edition AT,1956,Diesel,24.75,Automatic (TC),14.6,168,4.7,99.1030303
+TATA,Harrier,Fearless Plus Dark Edition,1956,Diesel,24.85,Manual,16.8,168,4.7,113.5774648
+TATA,Harrier,Fearless Plus Stealth Edition,1956,Diesel,25.1,Manual,16.8,168,4.7,112.4462151
+TATA,Harrier,Fearless Plus Dual Tone AT,1956,Diesel,25.75,Automatic (TC),14.6,168,4.7,95.25436893
+TATA,Harrier,Fearless Plus Dark Edition AT,1956,Diesel,26.25,Automatic (TC),14.6,168,4.7,93.44
+TATA,Harrier,Fearless Plus Stealth Edition AT,1956,Diesel,26.5,Automatic (TC),14.6,168,4.7,92.55849057
+TATA,Altroz,XE,1199,Petrol,6.65,Manual,19.33,87,4.6,252.8887218
+TATA,Altroz,XM,1199,Petrol,6.9,Manual,19.33,87,4.6,243.726087
+TATA,Altroz,XM (S),1199,Petrol,7.2,Manual,19.33,87,4.6,233.5708333
+TATA,Altroz,XM Plus,1199,Petrol,7.5,Manual,19.33,87,4.6,224.228
+TATA,Altroz,XE iCNG,1199,CNG,7.6,Manual,26.2,72,4.6,248.2105263
+TATA,Altroz,XM Plus (S),1199,Petrol,7.8,Manual,19.33,87,4.6,215.6038462
+TATA,Altroz,XT,1199,Petrol,8.2,Manual,19.33,87,4.6,205.0865854
+TATA,Altroz,XM Plus iCNG,1199,CNG,8.45,Manual,26.2,72,4.6,223.2426036
+TATA,Altroz,XMA Plus,1199,Petrol,8.5,Automatic (DCT),19.33,87,4.6,197.8482353
+TATA,Altroz,XZ,1199,Petrol,8.7,Manual,19.33,87,4.6,193.3
+TATA,Altroz,XM Plus (S) iCNG,1199,CNG,8.75,Manual,26.2,72,4.6,215.5885714
+TATA,Altroz,XMA Plus (S),1199,Petrol,8.8,Automatic (DCT),19.33,87,4.6,191.1034091
+TATA,Altroz,XM Plus,1497,Diesel,8.8,Manual,23.64,89,4.6,239.0863636
+TATA,Altroz,XZ LUX,1199,Petrol,9,Manual,19.33,87,4.6,186.8566667
+TATA,Altroz,XM Plus (S),1497,Diesel,9.1,Manual,23.64,89,4.6,231.2043956
+TATA,Altroz,XZ i-Turbo,1199,Petrol,9.2,Manual,18.5,108,4.6,217.173913
+TATA,Altroz,XTA,1199,Petrol,9.2,Automatic (DCT),19.33,87,4.6,182.7945652
+TATA,Altroz,XZ Plus (S),1199,Petrol,9.2,Manual,19.33,87,4.6,182.7945652
+TATA,Altroz,XZ Plus (S) Dark Edition,1199,Petrol,9.5,Manual,19.33,87,4.6,177.0221053
+TATA,Altroz,XT,1497,Diesel,9.5,Manual,23.64,89,4.6,221.4694737
+TATA,Altroz,Racer R1,1199,Petrol,9.5,Manual,19.33,118,4.6,240.0989474
+TATA,Altroz,XZ Plus i-Turbo (S),1199,Petrol,9.7,Manual,18.5,108,4.6,205.9793814
+TATA,Altroz,XZ Plus (S) LUX,1199,Petrol,9.7,Manual,19.33,87,4.6,173.3721649
+TATA,Altroz,XZA,1199,Petrol,9.7,Automatic (DCT),19.33,87,4.6,173.3721649
+TATA,Altroz,XZ iCNG,1199,CNG,9.7,Manual,26.2,72,4.6,194.4742268
+TATA,Altroz,XZA Lux,1199,Petrol,10,Automatic (DCT),19.33,87,4.6,168.171
+TATA,Altroz,XZ Lux CNG,1199,CNG,10,Manual,26.2,72,4.6,188.64
+TATA,Altroz,XZ Plus (S) Lux Dark Edition,1199,Petrol,10,Manual,19.33,87,4.6,168.171
+TATA,Altroz,XZ Plus (O) (S),1199,Petrol,10,Manual,19.33,87,4.6,168.171
+TATA,Altroz,XZ,1497,Diesel,10,Manual,23.64,89,4.6,210.396
+TATA,Altroz,XZ Plus i-Turbo (S) Dark Edition,1199,Petrol,10.1,Manual,18.5,108,4.6,197.8217822
+TATA,Altroz,XZA Plus (S),1199,Petrol,10.2,Automatic (DCT),19.33,87,4.6,164.8735294
+TATA,Altroz,XZ Plus (S) iCNG,1199,CNG,10.2,Manual,26.2,72,4.6,184.9411765
+TATA,Altroz,XZ LUX,1497,Diesel,10.3,Manual,23.64,89,4.6,204.2679612
+TATA,Altroz,XZ Plus (S),1497,Diesel,10.5,Manual,23.64,89,4.6,200.3771429
+TATA,Altroz,XZA Plus (S) Dark Edition,1199,Petrol,10.5,Automatic (DCT),19.33,87,4.6,160.1628571
+TATA,Altroz,Racer R2,1199,Petrol,10.5,Manual,19.17,118,4.6,215.4342857
+TATA,Altroz,XZA Plus (S) Lux,1199,Petrol,10.7,Automatic (DCT),19.33,87,4.6,157.1691589
+TATA,Altroz,XZ Plus (S) Lux CNG,1199,CNG,10.7,Manual,26.2,72,4.6,176.2990654
+TATA,Altroz,XZ Plus (S) Dark Edition,1497,Diesel,10.8,Manual,23.64,89,4.6,194.8111111
+TATA,Altroz,XZA Plus (O) (S),1199,Petrol,11,Automatic (DCT),19.33,87,4.6,152.8827273
+TATA,Altroz,Racer R3,1199,Petrol,11,Manual,19.17,118,4.6,205.6418182
+TATA,Altroz,XZ Plus (O) (S) iCNG,1199,CNG,11,Manual,26.2,72,4.6,171.4909091
+TATA,Altroz,XZA Plus (S) Lux Dark Edition,1199,Petrol,11,Automatic (DCT),19.33,87,4.6,152.8827273
+TATA,Altroz,XZ Plus (S) LUX,1497,Diesel,11,Manual,23.64,89,4.6,191.2690909
+TATA,Safari,Smart 7 STR,1956,Diesel,15.5,Manual,16.3,168,4.7,176.6709677
+TATA,Safari,Smart (O) 7 STR,1956,Diesel,16.35,Manual,16.3,168,4.7,167.4862385
+TATA,Safari,Pure 7 STR,1956,Diesel,17.35,Manual,16.3,168,4.7,157.832853
+TATA,Safari,Pure (O) 7 STR,1956,Diesel,17.85,Manual,16.3,168,4.7,153.4117647
+TATA,Safari,Pure Plus 7 STR,1956,Diesel,19.05,Manual,16.3,168,4.7,143.7480315
+TATA,Safari,Pure Plus S 7 STR,1956,Diesel,19.35,Manual,16.3,168,4.7,141.5193798
+TATA,Safari,Pure Plus S Dark Edition 7 STR,1956,Diesel,19.65,Manual,16.3,168,4.7,139.3587786
+TATA,Safari,Pure Plus AT 7 STR,1956,Diesel,19.85,Automatic (TC),14.5,168,4.7,122.720403
+TATA,Safari,Adventure 7 STR,1956,Diesel,20,Manual,16.3,168,4.7,136.92
+TATA,Safari,Pure Plus S AT 7 STR,1956,Diesel,20,Automatic (TC),14.5,168,4.7,121.8
+TATA,Safari,Pure Plus S Dark Edition AT 7 STR,1956,Diesel,20.65,Automatic (TC),14.5,168,4.7,117.9661017
+TATA,Safari,Adventure Plus 7 STR,1956,Diesel,21.85,Manual,16.3,168,4.7,125.3272311
+TATA,Safari,Adventure Plus Dark Edition 7 STR,1956,Diesel,22.35,Manual,16.3,168,4.7,122.5234899
+TATA,Safari,Adventure Plus A 7 STR,1956,Diesel,22.85,Manual,16.3,168,4.7,119.8424508
+TATA,Safari,Adventure Plus AT 7 STR,1956,Diesel,23.25,Automatic (TC),14.5,168,4.7,104.7741935
+TATA,Safari,Adventure Plus Dark Edition AT 7 STR,1956,Diesel,23.75,Automatic (TC),14.5,168,4.7,102.5684211
+TATA,Safari,Accomplished Dual Tone 7 STR,1956,Diesel,23.85,Manual,16.3,168,4.7,114.8176101
+TATA,Safari,Accomplished Dark Edition 7 STR,1956,Diesel,24.15,Manual,16.3,168,4.7,113.3913043
+TATA,Safari,Adventure Plus A AT 7 STR,1956,Diesel,24.25,Automatic (TC),14.5,168,4.7,100.4536082
+TATA,Safari,Accomplished Plus Dual Tone 7 STR,1956,Diesel,25,Manual,16.3,168,4.7,109.536
+TATA,Safari,Accomplished Plus 6 STR Dual Tone,1956,Diesel,25.1,Manual,16.3,168,4.7,109.0996016
+TATA,Safari,Accomplished Dual Tone AT 7 STR,1956,Diesel,25.25,Automatic (TC),14.5,168,4.7,96.47524752
+TATA,Safari,Accomplished Plus Dark Edition 7 STR,1956,Diesel,25.3,Manual,16.3,168,4.7,108.2371542
+TATA,Safari,Accomplished Dark Edition AT 7 STR,1956,Diesel,25.55,Automatic (TC),14.5,168,4.7,95.34246575
+TATA,Safari,Accomplished Plus 6 STR Dark Edition,1956,Diesel,25.6,Manual,16.3,168,4.7,106.96875
+TATA,Safari,Accomplished Plus 7 STR Stealth Edition,1956,Diesel,25.75,Manual,16.3,168,4.7,106.3456311
+TATA,Safari,Accomplished Plus Dual Tone AT 7 STR,1956,Diesel,26.4,Automatic (TC),14.5,168,4.7,92.27272727
+TATA,Safari,Accomplished Plus 6 STR Dual Tone AT,1956,Diesel,26.5,Automatic (TC),14.5,168,4.7,91.9245283
+TATA,Safari,Accomplished Plus Dark Edition AT 7 STR,1956,Diesel,26.9,Automatic (TC),14.5,168,4.7,90.55762082
+TATA,Safari,Accomplished Plus 6 STR Dark Edition AT,1956,Diesel,27,Automatic (TC),14.5,168,4.7,90.22222222
+TATA,Safari,Accomplished Plus 7 STR Stealth Edition AT,1956,Diesel,27.15,Automatic (TC),14.5,168,4.7,89.72375691
+TATA,Safari,Accomplished Plus 6 STR Stealth Edition AT,1956,Diesel,27.25,Automatic (TC),14.5,168,4.7,89.39449541
+TATA,Nexon EV,Creative Plus Medium Range,30,Electric,12.49,Automatic,325,127,4.4,3304.643715
+TATA,Nexon EV,Fearless Medium Range,30,Electric,13.29,Automatic,325,127,4.4,3105.718585
+TATA,Nexon EV,Fearless Plus Medium Range,30,Electric,13.79,Automatic,325,127,4.4,2993.11095
+TATA,Nexon EV,Creative 45,45,Electric,13.99,Automatic,489,148,4.4,5173.12366
+TATA,Nexon EV,Fearless Plus (S) Medium Range,30,Electric,14.29,Automatic,325,127,4.4,2888.383485
+TATA,Nexon EV,Empowered Medium Range,30,Electric,14.79,Automatic,325,127,4.4,2790.736984
+TATA,Nexon EV,Fearless 45,45,Electric,14.99,Automatic,489,148,4.4,4828.018679
+TATA,Nexon EV,Empowered 45,45,Electric,15.99,Automatic,489,148,4.4,4526.078799
+TATA,Nexon EV,Empowered Plus 45,45,Electric,16.99,Automatic,489,148,4.4,4259.682166
+TATA,Nexon EV,Empowered Plus 45 Red Dark Edition,45,Electric,17.19,Automatic,489,148,4.4,4210.122164
+TATA,Punch EV,Smart 3.3,25,Electric,9.99,Automatic,315,80,4.5,2522.522523
+TATA,Punch EV,Smart Plus 3.3,25,Electric,11.14,Automatic,315,80,4.5,2262.118492
+TATA,Punch EV,Adventure 3.3,25,Electric,11.84,Automatic,315,80,4.5,2128.378378
+TATA,Punch EV,Adventure (S) 3.3,25,Electric,12.14,Automatic,315,80,4.5,2075.782537
+TATA,Punch EV,Empowered 3.3,25,Electric,12.64,Automatic,315,80,4.5,1993.670886
+TATA,Punch EV,Empowered (S) 3.3,25,Electric,12.84,Automatic,315,80,4.5,1962.616822
+TATA,Punch EV,Empowered Plus 3.3,25,Electric,12.84,Automatic,315,80,4.5,1962.616822
+TATA,Punch EV,Adventure Long Range 3.3,35,Electric,12.84,Automatic,421,120,4.5,3934.579439
+TATA,Punch EV,Empowered Plus S 3.3,25,Electric,13.14,Automatic,315,80,4.5,1917.808219
+TATA,Punch EV,Adventure (S) Long Range 3.3,35,Electric,13.14,Automatic,421,120,4.5,3844.748858
+TATA,Punch EV,Adventure Long Range 7.2 Fast Charger,35,Electric,13.34,Automatic,421,120,4.5,3787.106447
+TATA,Punch EV,Empowered Long Range 3.3,35,Electric,13.44,Automatic,421,120,4.5,3758.928571
+TATA,Punch EV,Empowered S Long Range 3.3,35,Electric,13.64,Automatic,421,120,4.5,3703.812317
+TATA,Punch EV,Empowered Plus Long Range 3.3,35,Electric,13.64,Automatic,421,120,4.5,3703.812317
+TATA,Punch EV,Adventure (S) Long Range 7.2 Fast Charger,35,Electric,13.64,Automatic,421,120,4.5,3703.812317
+TATA,Punch EV,Empowered Long Range 7.2 Fast Charger,35,Electric,13.94,Automatic,421,120,4.5,3624.1033
+TATA,Punch EV,Empowered Plus S Long Range 3.3,35,Electric,13.94,Automatic,421,120,4.5,3624.1033
+TATA,Punch EV,Empowered S Long Range 7.2 Fast Charger,35,Electric,14.14,Automatic,421,120,4.5,3572.842999
+TATA,Punch EV,Empowered Plus Long Range 7.2 Fast Charger,35,Electric,14.14,Automatic,421,120,4.5,3572.842999
+TATA,Punch EV,Empowered Plus S long Range 7.2 Fast Charger,35,Electric,14.44,Automatic,421,120,4.5,3498.614958
+TATA,Tiago EV,XE Medium Range,19.2,Electric,7.99,Automatic,223,60.34,4.5,1684.082603
+TATA,Tiago EV,XT Medium Range,19.2,Electric,8.99,Automatic,223,60.34,4.5,1496.754171
+TATA,Tiago EV,XT Long Range,24,Electric,10.14,Automatic,293,73.75,4.5,2131.040434
+TATA,Tiago EV,XZ Plus Tech LUX Long Range,24,Electric,11.14,Automatic,293,73.75,4.5,1939.744165
+TATA,Curvv EV,Creative,45,Electric,17.49,Automatic,430,148,4.4,3638.650658
+TATA,Curvv EV,Accomplished,45,Electric,18.49,Automatic,430,148,4.4,3441.860465
+TATA,Curvv EV,Accomplished,55,Electric,19.25,Automatic,502,165,4.4,4302.857143
+TATA,Curvv EV,Accomplished Plus S,45,Electric,19.29,Automatic,430,148,4.4,3299.118714
+TATA,Curvv EV,Accomplished Plus S,55,Electric,19.99,Automatic,502,165,4.4,4143.571786
+TATA,Curvv EV,Empowered Plus,55,Electric,21.25,Automatic,502,165,4.4,3897.882353
+TATA,Curvv EV,Empowered Plus A,55,Electric,21.99,Automatic,502,165,4.4,3766.712142
+TATA,Curvv EV,Empowered Plus A Dark Edition,55,Electric,22.24,Automatic,502,165,4.4,3724.370504
+TATA,Tigor,XM,1199,Petrol,6,Manual,19.2,84,4.5,268.8
+TATA,Tigor,XT,1199,Petrol,6.7,Manual,19.2,84,4.5,240.7164179
+TATA,Tigor,XTA,1199,Petrol,7.25,Automatic (AMT),19.6,84,4.5,227.0896552
+TATA,Tigor,XZ,1199,Petrol,7.3,Manual,19.2,84,4.5,220.9315068
+TATA,Tigor,XT iCNG,1199,CNG,7.7,Manual,26.4,72,4.5,246.8571429
+TATA,Tigor,XZA,1199,Petrol,7.85,Automatic (AMT),19.6,84,4.5,209.7324841
+TATA,Tigor,XZ Plus,1199,Petrol,7.9,Manual,19.2,84,4.5,204.1518987
+TATA,Tigor,XZ iCNG,1199,CNG,8.3,Manual,26.4,72,4.5,229.0120482
+TATA,Tigor,XZA Plus,1199,Petrol,8.45,Automatic (AMT),19.6,84,4.5,194.8402367
+TATA,Tigor,XZ Plus LUX,1199,Petrol,8.5,Manual,19.2,84,4.5,189.7411765
+TATA,Tigor,XZA iCNG,1199,CNG,8.85,Automatic (AMT),28.06,72,4.5,228.2847458
+TATA,Tigor,XZ Plus iCNG,1199,CNG,8.9,Manual,26.4,72,4.5,213.5730337
+TATA,Tigor,XZA Plus iCNG,1199,CNG,9.45,Automatic (AMT),26.4,72,4.5,201.1428571
+TATA,Tiago NRG,XZ MT,1199,Petrol,7.2,Manual,20.09,85,4.7,237.1736111
+TATA,Tiago NRG,XZA,1199,Petrol,7.75,Automatic (AMT),20.09,85,4.7,220.3419355
+TATA,Tiago NRG,XZ iCNG,1199,CNG,8.2,Manual,26.49,74,4.7,239.0560976
+TATA,Tiago NRG,XZA iCNG,1199,CNG,8.75,Automatic(AMT),26.49,74,4.7,224.0297143
+TATA,Tigor EV,XE,26,Electric,12.49,Automatic,315,73.75,3.5,1859.98799
+TATA,Tigor EV,XT,26,Electric,12.99,Automatic,315,73.75,3.5,1788.394919
+TATA,Tigor EV,XZ Plus,26,Electric,13.49,Automatic,315,73.75,3.5,1722.10897
+TATA,Tigor EV,XZ Plus LUX,26,Electric,13.75,Automatic,315,73.75,3.5,1689.545455
+Hyundai,Creta,E 1.5,1497,Petrol,11.11,Manual,15.82,113,4.7,160.9054905
+Hyundai,Creta,EX 1.5,1497,Petrol,12.32,Manual,15.82,113,4.7,145.1022727
+Hyundai,Creta,E 1.5,1493,Diesel,12.69,Manual,19.25,114,4.7,172.9314421
+Hyundai,Creta,EX (O) 1.5,1497,Petrol,12.97,Manual,15.82,113,4.7,137.8303778
+Hyundai,Creta,S 1.5,1497,Petrol,13.54,Manual,15.82,113,4.7,132.028065
+Hyundai,Creta,EX 1.5,1493,Diesel,13.92,Manual,19.25,114,4.7,157.6508621
+Hyundai,Creta,EX (O) 1.5 CVT,1497,Petrol,14.37,Automatic (CVT),16.67,113,4.7,131.0862909
+Hyundai,Creta,S (O) 1.5,1497,Petrol,14.47,Manual,15.82,113,4.7,123.5425017
+Hyundai,Creta,EX (O) 1.5,1493,Diesel,14.56,Manual,19.25,114,4.7,150.7211538
+Hyundai,Creta,S (O) 1.5 Knight Edition,1497,Petrol,14.62,Manual,15.82,113,4.7,122.2749658
+Hyundai,Creta,S (O) 1.5 Titan Grey Matte Knight Edition,1497,Petrol,14.67,Manual,15.82,113,4.7,121.858214
+Hyundai,Creta,S (O) 1.5 Knight Edition Dual Tone,1497,Petrol,14.77,Manual,15.82,113,4.7,121.0331754
+Hyundai,Creta,S 1.5,1493,Diesel,15,Manual,19.25,114,4.7,146.3
+Hyundai,Creta,SX 1.5,1497,Petrol,15.41,Manual,15.82,113,4.7,116.0064893
+Hyundai,Creta,SX 1.5 Dual Tone,1497,Petrol,15.56,Manual,15.82,113,4.7,114.8881748
+Hyundai,Creta,EX (O) 1.5 AT,1493,Diesel,15.96,Automatic (TC),18,114,4.7,128.5714286
+Hyundai,Creta,S (O) 1.5 CVT,1497,Petrol,15.97,Automatic (CVT),16.67,113,4.7,117.9530369
+Hyundai,Creta,S (O) 1.5,1493,Diesel,16.05,Manual,19.25,114,4.7,136.728972
+Hyundai,Creta,SX Tech 1.5,1497,Petrol,16.09,Manual,15.82,113,4.7,111.1037912
+Hyundai,Creta,S (O) 1.5 CVT Knight Edition,1497,Petrol,16.12,Automatic (CVT),16.67,113,4.7,116.8554591
+Hyundai,Creta,S (O) 1.5 CVT titan Grey Matte Knight Edition,1497,Petrol,16.17,Automatic (CVT),16.67,113,4.7,116.4941249
+Hyundai,Creta,SX 1.5 Premium,1497,Petrol,16.18,Manual,15.82,113,4.7,110.4857849
+Hyundai,Creta,S (O) 1.5 Knight Edition,1493,Diesel,16.2,Manual,19.25,114,4.7,135.462963
+Hyundai,Creta,SX Tech 1.5 Dual Tone,1497,Petrol,16.24,Manual,15.82,113,4.7,110.0775862
+Hyundai,Creta,S (O) 1.5 Titan Grey Matte Knight Edition,1493,Diesel,16.25,Manual,19.25,114,4.7,135.0461538
+Hyundai,Creta,S (O) 1.5 CVT  Knight Edition Dual Tone,1497,Petrol,16.27,Automatic (CVT),16.67,113,4.7,115.7781192
+Hyundai,Creta,S (O) 1.5 Knight Edition Dual Tone,1493,Diesel,16.35,Manual,19.25,114,4.7,134.2201835
+Hyundai,Creta,SX (O) 1.5,1497,Petrol,17.46,Manual,15.82,113,4.7,102.3860252
+Hyundai,Creta,S (O) 1.5 AT,1493,Diesel,17.55,Automatic (TC),18,114,4.7,116.9230769
+Hyundai,Creta,SX (O) 1.5 Titan Grey Matte Knight Edition,1497,Petrol,17.58,Manual,15.82,113,4.7,101.6871445
+Hyundai,Creta,SX Tech 1.5 CVT,1497,Petrol,17.59,Automatic (CVT),16.67,113,4.7,107.0898238
+Hyundai,Creta,SX (O) 1.5 Knight Edition,1497,Petrol,17.61,Manual,15.82,113,4.7,101.5139125
+Hyundai,Creta,SX (O) 1.5 Dual Tone,1497,Petrol,17.61,Manual,15.82,113,4.7,101.5139125
+Hyundai,Creta,SX Tech 1.5,1493,Diesel,17.68,Manual,19.25,114,4.7,124.1233032
+Hyundai,Creta,SX 1.5 Premium CVT,1497,Petrol,17.68,Automatic (CVT),16.67,113,4.7,106.5446833
+Hyundai,Creta,S (O) 1.5 AT Knight Edition,1493,Diesel,17.7,Automatic (TC),18,114,4.7,115.9322034
+Hyundai,Creta,SX Tech 1.5 CVT Dual Tone,1497,Petrol,17.74,Automatic (CVT),16.67,113,4.7,106.1843292
+Hyundai,Creta,S (O) 1.5 AT Titan Grey Matte Knight Edition,1493,Diesel,17.75,Automatic (TC),18,114,4.7,115.6056338
+Hyundai,Creta,SX (O) 1.5 Knight Edition Dual Tone,1497,Petrol,17.76,Manual,15.82,113,4.7,100.6565315
+Hyundai,Creta,SX 1.5 Premium,1493,Diesel,17.77,Manual,19.25,114,4.7,123.4946539
+Hyundai,Creta,SX Tech 1.5 Dual Tone,1493,Diesel,17.83,Manual,19.25,114,4.7,123.0790802
+Hyundai,Creta,S (O) 1.5 AT Knight Edition Dual Tone,1493,Diesel,17.85,Automatic (TC),18,114,4.7,114.9579832
+Hyundai,Creta,SX (O) 1.5 CVT,1497,Petrol,18.92,Automatic (CVT),16.67,113,4.7,99.56183932
+Hyundai,Creta,SX (O) 1.5 CVT Titan Grey Matte Knight Edition,1497,Petrol,19.04,Automatic (CVT),16.67,113,4.7,98.93434874
+Hyundai,Creta,SX (O) 1.5,1493,Diesel,19.05,Manual,19.25,114,4.7,115.1968504
+Hyundai,Creta,SX (O) 1.5 CVT Knight Edition,1497,Petrol,19.07,Automatic (CVT),16.67,113,4.7,98.77871002
+Hyundai,Creta,SX (O) 1.5 CVT Dual Tone,1497,Petrol,19.07,Automatic (CVT),16.67,113,4.7,98.77871002
+Hyundai,Creta,SX (O) 1.5 Dual Tone,1493,Diesel,19.12,Manual,19.25,114,4.7,114.7751046
+Hyundai,Creta,SX (O) 1.5 CVT Knight Edition Dual Tone,1497,Petrol,19.14,Automatic (CVT),16.67,113,4.7,98.41745037
+Hyundai,Creta,SX (O) 1.5 Titan Grey Matte Knight Edition,1493,Diesel,19.17,Manual,19.25,114,4.7,114.4757433
+Hyundai,Creta,SX (O) 1.5 Knight Edition,1493,Diesel,19.2,Manual,19.25,114,4.7,114.296875
+Hyundai,Creta,SX (O) 1.5 Knight Edition Dual Tone,1493,Diesel,19.35,Manual,19.25,114,4.7,113.4108527
+Hyundai,Creta,SX (O) 1.5 AT,1493,Diesel,20,Automatic (TC),18,114,4.7,102.6
+Hyundai,Creta,SX (O) 1.5 AT Dual Tone,1493,Diesel,20.15,Automatic (TC),18,114,4.7,101.8362283
+Hyundai,Creta,SX (O) 1.5 Turbo DCT,1482,Petrol,20.19,Automatic (DCT),17.5,158,4.7,136.9489846
+Hyundai,Creta,SX (O) 1.5 AT Titan Grey Matte Knight Edition,1493,Diesel,20.32,Automatic (TC),18,114,4.7,100.984252
+Hyundai,Creta,SX (O) 1.5 Turbo DCT Dual Tone,1482,Petrol,20.34,Automatic (DCT),17.5,158,4.7,135.9390364
+Hyundai,Creta,SX (O) 1.5 AT Knight Edition,1493,Diesel,20.35,Automatic (TC),18,114,4.7,100.8353808
+Hyundai,Creta,SX (O) 1.5 AT Knight Edition Dual Tone,1493,Diesel,20.5,Automatic (TC),18,114,4.7,100.097561
+Hyundai,Venue,E 1.2,1197,Petrol,7.94,Manual,17.5,82,4.6,180.7304786
+Hyundai,Venue,E Plus 1.2,1197,Petrol,8.32,Manual,17.5,82,4.6,172.4759615
+Hyundai,Venue,S 1.2,1197,Petrol,9.28,Manual,17.5,82,4.6,154.6336207
+Hyundai,Venue,S Plus 1.2 MT,1197,Petrol,9.53,Manual,16,82,4.6,137.6705142
+Hyundai,Venue,S (O) Plus 1.2,1197,Petrol,10,Manual,17.5,82,4.6,143.5
+Hyundai,Venue,S (O) 1.2,1197,Petrol,10,Manual,17.5,82,4.6,143.5
+Hyundai,Venue,Executive 1.0 Turbo MT,998,Petrol,10,Manual,18.07,118,4.6,213.226
+Hyundai,Venue,S (O) 1.2 Knight Edition,1197,Petrol,10.35,Manual,20.36,82,4.6,161.3062802
+Hyundai,Venue,S (O) Plus 1.2 Adventure Edition,1197,Petrol,10.37,Manual,17.5,82,4.6,138.3799421
+Hyundai,Venue,SX Executive 1.2 MT,1197,Petrol,10.79,Manual,20.36,82,4.6,154.7284523
+Hyundai,Venue,S Plus 1.5 CRDi,1493,Diesel,10.8,Manual,23.4,113,4.6,244.8333333
+Hyundai,Venue,S (O) 1.0 Turbo MT,998,Petrol,10.84,Manual,17.5,118,4.6,190.498155
+Hyundai,Venue,SX 1.2,1197,Petrol,11.14,Manual,17.5,82,4.6,128.8150808
+Hyundai,Venue,SX 1.2 Dual Tone,1197,Petrol,11.29,Manual,17.5,82,4.6,127.1036315
+Hyundai,Venue,SX 1.2 Adventure Edition,1197,Petrol,11.3,Manual,17.5,82,4.6,126.9911504
+Hyundai,Venue,SX 1.2 Adventure Edition Dual Tone,1197,Petrol,11.45,Manual,17.5,82,4.6,125.3275109
+Hyundai,Venue,SX 1.2 MT Knight Edition,1197,Petrol,11.47,Manual,17.5,82,4.6,125.1089799
+Hyundai,Venue,SX 1.2 MT Knight Edition Dual Tone,1197,Petrol,11.62,Manual,17.5,82,4.6,123.4939759
+Hyundai,Venue,S (O) 1.0 Turbo DCT,998,Petrol,11.95,Automatic(DCT),18.31,118,4.6,180.8016736
+Hyundai,Venue,SX 1.5 CRDi,1493,Diesel,12.46,Manual,23.4,113,4.6,212.2150883
+Hyundai,Venue,SX (O) MT 1.0 Turbo,998,Petrol,12.53,Manual,18.31,118,4.6,172.4325619
+Hyundai,Venue,SX 1.5 CRDi Dual Tone,1493,Diesel,12.61,Manual,23.4,113,4.6,209.6907216
+Hyundai,Venue,SX (O) MT 1.0 Turbo Dual Tone,998,Petrol,12.68,Manual,17.8,118,4.6,165.6466877
+Hyundai,Venue,SX (O) 1.0 Turbo MT Knight Edition,998,Petrol,12.74,Manual,17.8,118,4.6,164.866562
+Hyundai,Venue,SX (O) 1.0 Turbo MT Knight Edition Dual Tone,998,Petrol,12.89,Manual,17.8,118,4.6,162.9480217
+Hyundai,Venue,SX (O) 1.0 Turbo DCT,998,Petrol,13.32,Automatic(DCT),18.31,118,4.6,162.2057057
+Hyundai,Venue,SX (O) MT 1.5,1493,Diesel,13.38,Manual,24.2,114,4.6,206.1883408
+Hyundai,Venue,SX (O) 1.0 Turbo DCT Knight Edition,998,Petrol,13.42,Automatic(DCT),18.31,118,4.6,160.9970194
+Hyundai,Venue,SX (O) 1.0 Turbo DCT Adventure Edition,998,Petrol,13.47,Automatic(DCT),18.31,118,4.6,160.3994061
+Hyundai,Venue,SX (O) 1.0 Turbo  DCT Dual Tone,998,Petrol,13.47,Automatic(DCT),18.31,118,4.6,160.3994061
+Hyundai,Venue,SX (O) MT 1.5 Dual Tone,1493,Diesel,13.53,Manual,23.4,114,4.6,197.1618625
+Hyundai,Venue,SX (O) 1.0 Turbo DCT Knight Edition Dual Tone,998,Petrol,13.57,Automatic(DCT),18.31,118,4.6,159.2173913
+Hyundai,Venue,SX (O) 1.0 Turbo DCT Adventure Edition Dual Tone,998,Petrol,13.62,Automatic(DCT),18.31,118,4.6,158.6328928
+Hyundai,Exter,EX 1.2 MT,1197,Petrol,6.21,Manual,19.4,82,4.7,256.1674718
+Hyundai,Exter,EX (O) 1.2 MT,1197,Petrol,6.56,Manual,19.4,82,4.7,242.5
+Hyundai,Exter,EX 1.2 CNG Duo MT,1197,CNG,7.51,Manual,27.1,82,4.7,295.8988016
+Hyundai,Exter,S Smart 1.2 MT,1197,Petrol,7.68,Manual,19.4,82,4.7,207.1354167
+Hyundai,Exter,S 1.2 MT,1197,Petrol,7.73,Manual,19.4,82,4.7,205.7956016
+Hyundai,Exter,S Plus 1.2 MT,1197,Petrol,7.93,Manual,19.4,82,4.7,200.6052963
+Hyundai,Exter,SX Smart 1.2 MT,1197,Petrol,8.16,Manual,19.4,82,4.7,194.9509804
+Hyundai,Exter,SX 1.2 MT,1197,Petrol,8.31,Manual,19.4,82,4.7,191.4320096
+Hyundai,Exter,S Smart 1.2 AMT,1197,Petrol,8.39,Automatic (AMT),19.2,82,4.7,187.6519666
+Hyundai,Exter,S 1.2  AMT,1197,Petrol,8.44,Automatic (AMT),19.2,82,4.7,186.5402844
+Hyundai,Exter,SX 1.2 MT Knight Edition,1197,Petrol,8.46,Manual,19.4,82,4.7,188.0378251
+Hyundai,Exter,SX Tech MT,1197,Petrol,8.51,Manual,19.4,82,4.7,186.93302
+Hyundai,Exter,SX 1.2 MT Dual Tone,1197,Petrol,8.55,Manual,19.4,82,4.7,186.0584795
+Hyundai,Exter,S Executive 1.2 Hy MT,1197,CNG,8.56,Manual,27.1,68,4.7,215.2803738
+Hyundai,Exter,S Smart 1.2 HY Duo,1197,CNG,8.63,Manual,27.1,68,4.7,213.5341831
+Hyundai,Exter,S Plus 1.2 AMT,1197,Petrol,8.64,Automatic (AMT),19.2,82,4.7,182.2222222
+Hyundai,Exter,S Executive 1.2 Hy Duo MT,1197,CNG,8.65,Manual,27.1,68,4.7,213.0404624
+Hyundai,Exter,SX 1.2 MT Knight Edition Dual Tone,1197,Petrol,8.7,Manual,19.4,82,4.7,182.8505747
+Hyundai,Exter,SX Smart 1.2 AMT,1197,Petrol,8.83,Automatic (AMT),19.2,82,4.7,178.3012458
+Hyundai,Exter,S Plus Executive 1.2 Hy Duo MT,1197,CNG,8.86,Manual,27.1,68,4.7,207.9909707
+Hyundai,Exter,SX (O) 1.2 MT,1197,Petrol,8.95,Manual,19.4,82,4.7,177.7430168
+Hyundai,Exter,SX 1.2 AMT,1197,Petrol,8.98,Automatic (AMT),19.2,82,4.7,175.3229399
+Hyundai,Exter,SX 1.2 AMT Knight Edition,1197,Petrol,9.13,Automatic (AMT),19.2,82,4.7,172.4424973
+Hyundai,Exter,SX Tech 1.2 AMT,1197,Petrol,9.18,Automatic (AMT),19.2,82,4.7,171.503268
+Hyundai,Exter,SX Smart 1.2 HY Duo,1197,CNG,9.18,Manual,27.1,68,4.7,200.7407407
+Hyundai,Exter,SX 1.2 AMT Dual Tone,1197,Petrol,9.23,Automatic (AMT),19.2,82,4.7,170.5742145
+Hyundai,Exter,SX 1.2 CNG MT,1197,CNG,9.25,Manual,27.1,68,4.7,199.2216216
+Hyundai,Exter,SX 1.2 MT Hy Duo,1197,CNG,9.33,Manual,27.1,68,4.7,197.5133976
+Hyundai,Exter,SX 1.2 AMT Knight Edition Dual Tone,1197,Petrol,9.38,Automatic (AMT),19.2,82,4.7,167.8464819
+Hyundai,Exter,SX 1.2 MT Knight Edition Hy Duo,1197,CNG,9.48,Manual,27.1,68,4.7,194.3881857
+Hyundai,Exter,SX Tech 1.2 HY DUO MT,1197,CNG,9.53,Manual,27.1,68,4.7,193.3683106
+Hyundai,Exter,SX (O) 1.2 AMT,1197,Petrol,9.62,Automatic (AMT),19.2,82,4.7,163.6590437
+Hyundai,Exter,SX (O) Connect 1.2 MT,1197,Petrol,9.64,Manual,19.4,82,4.7,165.0207469
+Hyundai,Exter,SX (O) Connect 1.2 MT Knight Edition,1197,Petrol,9.79,Manual,19.4,82,4.7,162.4923391
+Hyundai,Exter,SX (O) Connect 1.2 MT Dual Tone,1197,Petrol,9.79,Manual,19.4,82,4.7,162.4923391
+Hyundai,Exter,SX (O) Connect 1.2 MT Knight Edition Dual Tone,1197,Petrol,9.94,Manual,19.4,82,4.7,160.0402414
+Hyundai,Exter,SX (O) Connect 1.2 AMT,1197,Petrol,10,Automatic (AMT),19.2,82,4.7,157.44
+Hyundai,Exter,SX (O) Connect 1.2 AMT Knight Edition,1197,Petrol,10.15,Automatic (AMT),19.2,82,4.7,155.1133005
+Hyundai,Exter,SX (O) Connect 1.2 AMT Dual Tone,1197,Petrol,10.36,Automatic (AMT),19.2,82,4.7,151.969112
+Hyundai,Exter,SX (O) Connect 1.2 AM Knight Edition Dual Tone,1197,Petrol,10.51,Automatic (AMT),19.2,82,4.7,149.8001903
+Hyundai,Grand i10 Nios,Era 1.2 Kappa,1197,Petrol,5.98,Manual,19.8,82,4.5,271.5050167
+Hyundai,Grand i10 Nios,Magna 1.2 Kappa,1197,Petrol,6.84,Manual,19.8,82,4.5,237.3684211
+Hyundai,Grand i10 Nios,Corporate 1.2 Kappa,1197,Petrol,7.09,Manual,19.8,82,4.5,228.9985896
+Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,1197,Petrol,7.42,Manual,19.8,82,4.5,218.8140162
+Hyundai,Grand i10 Nios,Magna 1.2 Kappa AMT,1197,Petrol,7.49,Automatic (AMT),16,82,4.5,175.1668892
+Hyundai,Grand i10 Nios,Sportz 1.2 Kappa Dual Tone,1197,Petrol,7.67,Manual,19.8,82,4.5,211.6818774
+Hyundai,Grand i10 Nios,Sportz (O) 1.2 Kappa VTVT,1197,Petrol,7.72,Manual,19.8,82,4.5,210.3108808
+Hyundai,Grand i10 Nios,Corporate 1.2 Kappa AMT,1197,Petrol,7.74,Automatic (AMT),16,82,4.5,169.5090439
+Hyundai,Grand i10 Nios,Magna 1.2 Hy-CNG Duo,1197,CNG,7.84,Manual,27,68,4.5,234.1836735
+Hyundai,Grand i10 Nios,Sportz 1.2 Kappa AMT,1197,Petrol,7.99,Automatic (AMT),16,82,4.5,164.2052566
+Hyundai,Grand i10 Nios,Asta 1.2 Kappa,1197,Petrol,8.06,Manual,19.8,82,4.5,201.439206
+Hyundai,Grand i10 Nios,Sportz (O) 1.2 Kappa AMT,1197,Petrol,8.29,Automatic (AMT),16,82,4.5,158.2629674
+Hyundai,Grand i10 Nios,Sportz 1.2 Kappa,1197,CNG,8.3,Manual,27,68,4.5,221.2048193
+Hyundai,Grand i10 Nios,Sportz 1.2 Hy-CNG Duo,1197,CNG,8.38,Manual,27,68,4.5,219.0930788
+Hyundai,Grand i10 Nios,Asta 1.2 Kappa AMT,1197,Petrol,8.62,Automatic (AMT),16,82,4.5,152.2041763
+Hyundai,Verna,EX 1.5 MT,1497,Petrol,11.07,Manual,18.6,113,4.7,189.8644986
+Hyundai,Verna,S 1.5 MT,1497,Petrol,12.37,Manual,18.6,113,4.7,169.9110752
+Hyundai,Verna,SX 1.5 MT,1497,Petrol,13.15,Manual,18.6,113,4.7,159.8326996
+Hyundai,Verna,S 1.5 IVT,1497,Petrol,13.62,Automatic (CVT),19.6,113,4.7,162.6138032
+Hyundai,Verna,SX 1.5 IVT,1497,Petrol,14.4,Automatic (CVT),19.6,113,4.7,153.8055556
+Hyundai,Verna,SX (O)1.5 MT,1497,Petrol,14.83,Manual,18.6,113,4.7,141.7262306
+Hyundai,Verna,SX 1.5 Turbo MT,1482,Petrol,15,Manual,20,158,4.7,210.6666667
+Hyundai,Verna,SX 1.5 Turbo MT Dual Tone,1482,Petrol,15,Manual,20,158,4.7,210.6666667
+Hyundai,Verna,S (O) 1.5 Turbo DCT,1482,Petrol,15.27,Automatic (DCT),20.6,158,4.7,213.1499673
+Hyundai,Verna,SX (O) 1.5 Turbo MT,1482,Petrol,16.16,Manual,20,158,4.7,195.5445545
+Hyundai,Verna,SX (O) 1.5 Turbo MT Dual Tone,1482,Petrol,16.16,Manual,20,158,4.7,195.5445545
+Hyundai,Verna,SX 1.5 Turbo DCT,1482,Petrol,16.25,Automatic (DCT),20.6,158,4.7,200.2953846
+Hyundai,Verna,SX 1.5 Turbo DCT Dual Tone,1482,Petrol,16.25,Automatic (DCT),20.6,158,4.7,200.2953846
+Hyundai,Verna,SX (O) 1.5 IVT,1497,Petrol,16.36,Automatic (CVT),19.6,113,4.7,135.3789731
+Hyundai,Verna,SX (O) 1.5 Turbo DCT,1482,Petrol,17.55,Automatic (DCT),20.6,158,4.7,185.4586895
+Hyundai,Verna,SX (O) 1.5 Turbo DCT Dual Tone,1482,Petrol,17.55,Automatic (DCT),20.6,158,4.7,185.4586895
+Hyundai,i20,Era 1.2 MT,1197,Petrol,7.04,Manual,17.52,82,4.6,204.0681818
+Hyundai,i20,Magna 1.2 MT,1197,Petrol,7.79,Manual,17.52,82,4.6,184.4210526
+Hyundai,i20,Sportz 1.2 MT,1197,Petrol,8.42,Manual,17.52,82,4.6,170.6223278
+Hyundai,i20,Sportz 1.2 MT Dual Tone,1197,Petrol,8.57,Manual,17.52,82,4.6,167.6359393
+Hyundai,i20,Sportz (O) 1.2 MT,1197,Petrol,8.77,Manual,17.52,82,4.6,163.8129989
+Hyundai,i20,Sportz (O) 1.2 MT Dual Tone,1197,Petrol,8.92,Manual,17.52,82,4.6,161.058296
+Hyundai,i20,Asta 1.2 MT,1197,Petrol,9.38,Manual,17.52,82,4.6,153.1599147
+Hyundai,i20,Sportz 1.2 IVT,1197,Petrol,9.47,Automatic (CVT),15.62,87,4.6,143.499472
+Hyundai,i20,Sportz (O) 1.2 IVT,1197,Petrol,9.82,Automatic (CVT),15.62,87,4.6,138.3849287
+Hyundai,i20,Asta (O) 1.2 MT,1197,Petrol,10,Manual,17.52,82,4.6,143.664
+Hyundai,i20,Asta (O) 1.2 MT Dual Tone,1197,Petrol,10.18,Manual,17.52,82,4.6,141.1237721
+Hyundai,i20,Asta (O) 1.2 IVT,1197,Petrol,11.1,Automatic (CVT),15.62,87,4.6,122.427027
+Hyundai,i20,Asta (O) 1.2 IVT Dual Tone,1197,Petrol,11.25,Automatic (CVT),15.62,87,4.6,120.7946667
+Hyundai,Aura,E 1.2,1197,Petrol,6.54,Manual,19.7,82,4.6,247.0030581
+Hyundai,Aura,S 1.2,1197,Petrol,7.38,Manual,19.7,82,4.6,218.8888889
+Hyundai,Aura,Corporate 1.2 MT,1197,Petrol,7.48,Manual,19.7,82,4.6,215.9625668
+Hyundai,Aura,E 1.2,1197,CNG,7.55,Manual,25,68,4.6,225.1655629
+Hyundai,Aura,SX 1.2,1197,Petrol,8.15,Manual,19.7,82,4.6,198.208589
+Hyundai,Aura,S 1.2,1197,CNG,8.37,Manual,25,68,4.6,203.1063321
+Hyundai,Aura,Corporate 1.2,1197,CNG,8.47,Manual,25,68,4.6,200.7083825
+Hyundai,Aura,SX (O) 1.2,1197,Petrol,8.71,Manual,19.7,82,4.6,185.4649828
+Hyundai,Aura,SX Plus 1.2 AMT,1197,Petrol,8.95,Automatic (AMT),17,82,4.6,155.7541899
+Hyundai,Aura,SX 1.2,1197,CNG,9.11,Manual,25,68,4.6,186.6081229
+Hyundai,Alcazar,Prestige 1.5 MT 7STR,1493,Diesel,17.22,Manual,20.4,114,4.6,135.0522648
+Hyundai,Alcazar,Prestige 1.5 MT 7STR,1482,Petrol,17.22,Manual,17.5,158,4.6,160.5691057
+Hyundai,Alcazar,Prestige Matte 1.5 7STR,1482,Petrol,17.37,Manual,17.5,158,4.6,159.1824986
+Hyundai,Alcazar,Prestige Matte 1.5 7STR,1493,Diesel,17.37,Manual,20.4,114,4.6,133.8860104
+Hyundai,Alcazar,Platinum 1.5 MT 7STR,1482,Petrol,19.6,Manual,17.5,158,4.6,141.0714286
+Hyundai,Alcazar,Platinum 1.5 MT 7STR,1493,Diesel,19.6,Manual,20.4,114,4.6,118.6530612
+Hyundai,Alcazar,Platinum 1.5 7STR Dual Tone,1482,Petrol,19.75,Manual,17.5,158,4.6,140
+Hyundai,Alcazar,Platinum Matte 1.5 7STR,1482,Petrol,19.75,Manual,17.5,158,4.6,140
+Hyundai,Alcazar,Platinum 1.5 7STR Dual Tone,1493,Diesel,19.75,Manual,20.4,114,4.6,117.7518987
+Hyundai,Alcazar,Platinum Matte 1.5 7STR,1493,Diesel,19.75,Manual,20.4,114,4.6,117.7518987
+Hyundai,Alcazar,Platinum 1.5 AT 7STR,1493,Diesel,20.95,Automatic (TC),18.1,114,4.6,98.49164678
+Hyundai,Alcazar,Platinum 1.5 DCT 7STR,1482,Petrol,20.95,Automatic (DCT),18,158,4.6,135.75179
+Hyundai,Alcazar,Platinum 1.5 DCT 6STR,1482,Petrol,21.04,Automatic (DCT),18,158,4.6,135.1711027
+Hyundai,Alcazar,Platinum 1.5 AT 6STR,1493,Diesel,21.04,Automatic (TC),18.1,114,4.6,98.07034221
+Hyundai,Alcazar,Platinum Matte 1.5 AT 7STR,1493,Diesel,21.1,Automatic (TC),18.1,114,4.6,97.79146919
+Hyundai,Alcazar,Platinum 1.5 AT 7STR Dual Tone,1493,Diesel,21.1,Automatic (TC),18.1,114,4.6,97.79146919
+Hyundai,Alcazar,Platinum 1.5 DCT 7STR Dual Tone,1482,Petrol,21.1,Automatic (DCT),18,158,4.6,134.7867299
+Hyundai,Alcazar,Platinum Matte 1.5 DCT 7STR,1482,Petrol,21.1,Automatic (DCT),18,158,4.6,134.7867299
+Hyundai,Alcazar,Platinum 1.5 DCT 6STR Dual Tone,1482,Petrol,21.19,Automatic (DCT),18,158,4.6,134.214252
+Hyundai,Alcazar,Platinum Matte 1.5 AT 6STR,1493,Diesel,21.19,Automatic (TC),18.1,114,4.6,97.37612081
+Hyundai,Alcazar,Platinum 1.5 AT 6STR Dual Tone,1493,Diesel,21.19,Automatic (TC),18.1,114,4.6,97.37612081
+Hyundai,Alcazar,Platinum Matte 1.5 DCT 6STR,1482,Petrol,21.19,Automatic (DCT),18,158,4.6,134.214252
+Hyundai,Alcazar,Signature 1.5 AT 7STR,1493,Diesel,21.39,Automatic (TC),18.1,114,4.6,96.46563815
+Hyundai,Alcazar,Signature 1.5 DCT 7STR,1482,Petrol,21.39,Automatic (DCT),18,158,4.6,132.9593268
+Hyundai,Alcazar,Signature 1.5 DCT 7STR Dual Tone,1482,Petrol,21.54,Automatic (DCT),18,158,4.6,132.0334262
+Hyundai,Alcazar,Signature Matte 1.5 DCT 7STR,1482,Petrol,21.54,Automatic (DCT),18,158,4.6,132.0334262
+Hyundai,Alcazar,Signature Matte 1.5 AT 7STR,1493,Diesel,21.54,Automatic (TC),18.1,114,4.6,95.79387187
+Hyundai,Alcazar,Signature 1.5 AT 7STR Dual Tone,1493,Diesel,21.54,Automatic (TC),18.1,114,4.6,95.79387187
+Hyundai,Alcazar,Signature 1.5 AT 6STR,1493,Diesel,21.59,Automatic (TC),18.1,114,4.6,95.57202409
+Hyundai,Alcazar,Signature 1.5 DCT 6STR,1482,Petrol,21.59,Automatic (DCT),18,158,4.6,131.7276517
+Hyundai,Alcazar,Signature Matte 1.5 AT 6STR,1493,Diesel,21.74,Automatic (TC),18.1,114,4.6,94.9126035
+Hyundai,Alcazar,Signature 1.5 DCT 6STR Dual Tone,1482,Petrol,21.74,Automatic (DCT),18,158,4.6,130.8187672
+Hyundai,Alcazar,Signature Matte 1.5 DCT 6STR,1482,Petrol,21.74,Automatic (DCT),18,158,4.6,130.8187672
+Hyundai,Alcazar,Signature 1.5 AT 6STR Dual Tone,1493,Diesel,21.74,Automatic (TC),18.1,114,4.6,94.9126035
+Hyundai,Creta Electric,Executive,42,Electric,17.99,Automatic,390,133,4.7,2883.268482
+Hyundai,Creta Electric,Smart,42,Electric,19,Automatic,390,133,4.7,2730
+Hyundai,Creta Electric,Smart (O),42,Electric,19.5,Automatic,390,133,4.7,2660
+Hyundai,Creta Electric,Smart (O) Dual Tone / Matte,42,Electric,19.65,Automatic,390,133,4.7,2639.694656
+Hyundai,Creta Electric,Premium,42,Electric,20,Automatic,390,133,4.7,2593.5
+Hyundai,Creta Electric,Premium Dual Tone / Matte,42,Electric,20.15,Automatic,390,133,4.7,2574.193548
+Hyundai,Creta Electric,Smart (O) (HC),42,Electric,20.23,Automatic,390,133,4.7,2564.013841
+Hyundai,Creta Electric,Smart (O) (HC) Dual Tone / Matte,42,Electric,20.38,Automatic,390,133,4.7,2545.142296
+Hyundai,Creta Electric,Premium (HC),42,Electric,20.73,Automatic,390,133,4.7,2502.170767
+Hyundai,Creta Electric,Premium (HC) Dual Tone,42,Electric,20.88,Automatic,390,133,4.7,2484.195402
+Hyundai,Creta Electric,Smart (O),51.4,Electric,21.5,Automatic,473,169,4.7,3718
+Hyundai,Creta Electric,Smart (O) LR Dual Tone / Matte,51.4,Electric,21.65,Automatic,473,169,4.7,3692.240185
+Hyundai,Creta Electric,Smart (O) LR (HC),51.4,Electric,22.23,Automatic,473,169,4.7,3595.906433
+Hyundai,Creta Electric,Smart (O) LR (HC) Dual Tone / Matte,51.4,Electric,22.38,Automatic,473,169,4.7,3571.805183
+Hyundai,Creta Electric,Excellence LR,51.4,Electric,23.5,Automatic,473,169,4.7,3401.574468
+Hyundai,Creta Electric,Excellence LR Dual Tone / Matte,51.4,Electric,23.65,Automatic,473,169,4.7,3380
+Hyundai,Creta Electric,Excellence LR (HC),51.4,Electric,24.23,Automatic,473,169,4.7,3299.092035
+Hyundai,Creta Electric,Excellence LR (HC) Dual Tone / Matte,51.4,Electric,24.38,Automatic,473,169,4.7,3278.794094
+Hyundai,i20 N Line,N6 1.0 Turbo MT,998,Petrol,9.99,Manual,20,118,4.6,236.2362362
+Hyundai,i20 N Line,N6 1.0 Turbo MT Dual Tone,998,Petrol,10.19,Manual,20,118,4.6,231.5996075
+Hyundai,i20 N Line,N6 1.0 Turbo DCT,998,Petrol,11.19,Automatic (DCT),14.6,118,4.6,153.9588919
+Hyundai,i20 N Line,N8 1.0 Turbo MT,998,Petrol,11.31,Manual,20,118,4.6,208.6648983
+Hyundai,i20 N Line,N6 1.0 Turbo DCT Dual Tone,998,Petrol,11.34,Automatic (DCT),14.6,118,4.6,151.9223986
+Hyundai,i20 N Line,N8 1.0 Turbo MT Dual Tone,998,Petrol,11.46,Manual,20,118,4.6,205.9336824
+Hyundai,i20 N Line,N8 1.0 Turbo DCT,998,Petrol,12.41,Automatic (DCT),14.6,118,4.6,138.8235294
+Hyundai,i20 N Line,N8 1.0 Turbo DCT Dual Tone,998,Petrol,12.56,Automatic (DCT),14.6,118,4.6,137.1656051
+Hyundai,Tucson,Platinum 2.0 AT,1999,Petrol,29.27,Automatic (TC),13,154,3.9,68.3976768
+Hyundai,Tucson,Platinum 2.0 AT,1997,Diesel,31.65,Automatic (TC),11.55,184,3.9,67.14691943
+Hyundai,Tucson,Signature 2.0 AT,1999,Petrol,31.77,Automatic (TC),13,154,3.9,63.01542336
+Hyundai,Tucson,Signature 2.0 AT Dual Tone,1999,Petrol,31.92,Automatic (TC),13,154,3.9,62.71929825
+Hyundai,Tucson,Signature 2.0 AT,1997,Diesel,34.35,Automatic (TC),11.55,184,3.9,61.86899563
+Hyundai,Tucson,Signature 2.0 AT Dual Tone,1997,Diesel,34.5,Automatic (TC),11.55,184,3.9,61.6
+Hyundai,Tucson,Signature 2.0 4WD AT,1997,Diesel,35.89,Automatic (TC),11.55,184,3.9,59.21426581
+Hyundai,Tucson,Signature 2.0 4WD AT Dual Tone,1997,Diesel,36.04,Automatic (TC),11.55,184,3.9,58.96781354
+Hyundai,Creta N Line,N8 1.5 Turbo MT,1482,Petrol,16.93,Manual,18,158,4.7,167.985824
+Hyundai,Creta N Line,N8 1.5 Turbo MT Titan Grey Matte,1482,Petrol,16.98,Manual,18,158,4.7,167.4911661
+Hyundai,Creta N Line,N8 1.5 Turbo MT Dual Tone,1482,Petrol,17.08,Manual,18,158,4.7,166.5105386
+Hyundai,Creta N Line,N8 1.5 Turbo DCT,1482,Petrol,18.43,Automatic (DCT),18.2,158,4.7,156.0282149
+Hyundai,Creta N Line,N8 1.5 Turbo DCT Titan Grey Matte,1482,Petrol,18.48,Automatic (DCT),18.2,158,4.7,155.6060606
+Hyundai,Creta N Line,N8 1.5 Turbo DCT Dual Tone,1482,Petrol,18.58,Automatic (DCT),18.2,158,4.7,154.7685684
+Hyundai,Creta N Line,N10 1.5 Turbo MT,1482,Petrol,19.53,Manual,18,158,4.7,145.6221198
+Hyundai,Creta N Line,N10 1.5 Turbo MT Titan Grey Matte,1482,Petrol,19.58,Manual,18,158,4.7,145.2502554
+Hyundai,Creta N Line,N10 1.5 Turbo MT Dual Tone,1482,Petrol,19.68,Manual,18,158,4.7,144.5121951
+Hyundai,Creta N Line,N10 1.5 Turbo DCT,1482,Petrol,20.49,Automatic (DCT),18.2,158,4.7,140.3416301
+Hyundai,Creta N Line,N10 1.5 Turbo DCT Titan Grey Matte,1482,Petrol,20.54,Automatic (DCT),18.2,158,4.7,140
+Hyundai,Creta N Line,N10 1.5 Turbo DCT Dual Tone,1482,Petrol,20.64,Automatic (DCT),18.2,158,4.7,139.3217054
+Hyundai,Ioniq,5 RWD,72.6,Electric,46.05,Automatic,631,214.56,4.5,2940.007818
+Hyundai,Venue N Line,N6 MT,998,Petrol,12.15,Manual,18.1,118,4.8,175.7860082
+Hyundai,Venue N Line,N6 MT Dual Tone,998,Petrol,12.3,Manual,18.1,118,4.8,173.6422764
+Hyundai,Venue N Line,N6 DCT,998,Petrol,12.94,Automatic (DCT),18.1,118,4.8,165.0540958
+Hyundai,Venue N Line,N8 MT,998,Petrol,13.03,Manual,18.1,118,4.8,163.9140445
+Hyundai,Venue N Line,N6 DCT Dual Tone,998,Petrol,13.09,Automatic (DCT),18.1,118,4.8,163.1627196
+Hyundai,Venue N Line,N8 MT Dual Tone,998,Petrol,13.18,Manual,18.1,118,4.8,162.0485584
+Hyundai,Venue N Line,N8 DCT,998,Petrol,13.82,Automatic (DCT),18.1,118,4.8,154.5441389
+Hyundai,Venue N Line,N8 DCT Dual Tone,998,Petrol,13.97,Automatic (DCT),18.1,118,4.8,152.884753
+Toyota,Urban Cruiser Hyryder,E NeoDrive,1462,Petrol,11.34,Manual,21.11,102,4.4,189.8783069
+Toyota,Urban Cruiser Hyryder,S NeoDrive,1462,Petrol,12.91,Manual,21.11,102,4.4,166.7869868
+Toyota,Urban Cruiser Hyryder,S E,1462,CNG,13.81,Manual,26.6,87,4.4,167.5742216
+Toyota,Urban Cruiser Hyryder,S AT NeoDrive,1462,Petrol,14.11,Automatic (TC),20.58,102,4.4,148.7710843
+Toyota,Urban Cruiser Hyryder,G (O) NeoDrive,1462,Petrol,14.74,Manual,21.11,102,4.4,146.0800543
+Toyota,Urban Cruiser Hyryder,G E,1462,CNG,15.84,Manual,26.6,87,4.4,146.0984848
+Toyota,Urban Cruiser Hyryder,G (O) AT NeoDrive,1462,Petrol,15.94,Automatic (TC),20.58,102,4.4,131.6913425
+Toyota,Urban Cruiser Hyryder,V NeoDrive,1462,Petrol,16.29,Manual,21.11,102,4.4,132.1804788
+Toyota,Urban Cruiser Hyryder,V NeoDrive Dual Tone,1462,Petrol,16.49,Manual,21.11,102,4.4,130.5773196
+Toyota,Urban Cruiser Hyryder,S Hybrid,1490,Hybrid (Electric + Petrol),16.81,Automatic (e-CVT),27.97,91,4.4,151.4140393
+Toyota,Urban Cruiser Hyryder,V AT NeoDrive,1462,Petrol,17.49,Automatic (TC),20.58,102,4.4,120.0205832
+Toyota,Urban Cruiser Hyryder,V AT NeoDrive Dual Tone,1462,Petrol,17.69,Automatic (TC),20.58,102,4.4,118.6636518
+Toyota,Urban Cruiser Hyryder,G (O) Hybrid,1490,Hybrid (Electric + Petrol),18.84,Automatic (e-CVT),27.97,91,4.4,135.0992569
+Toyota,Urban Cruiser Hyryder,V AT AWD NeoDrive,1462,Petrol,18.94,Automatic (TC),19.2,102,4.4,103.4002112
+Toyota,Urban Cruiser Hyryder,G (O) Hybrid Dual Tone,1490,Hybrid (Electric + Petrol),19.04,Automatic (e-CVT),27.97,91,4.4,133.6801471
+Toyota,Urban Cruiser Hyryder,V AT AWD NeoDrive Dual Tone,1462,Petrol,19.14,Automatic (TC),19.2,102,4.4,102.3197492
+Toyota,Urban Cruiser Hyryder,V Hybrid,1490,Hybrid (Electric + Petrol),19.99,Automatic (e-CVT),27.97,91,4.4,127.3271636
+Toyota,Urban Cruiser Hyryder,V Hybrid Dual Tone,1490,Hybrid (Electric + Petrol),20.19,Automatic (e-CVT),27.97,91,4.4,126.0658742
+Toyota,Fortuner,4X2 AT 2.7,2694,Petrol,35.37,Automatic (TC),10.3,164,4.5,47.75798699
+Toyota,Fortuner,4X2 MT 2.8,2755,Diesel,36.33,Manual,14.6,201,4.5,80.776218
+Toyota,Fortuner,Leader Edition 4X2 MT 2.8,2755,Diesel,36.88,Manual,14.6,201,4.5,79.57158351
+Toyota,Fortuner,4X2 AT 2.8,2755,Diesel,38.61,Automatic (TC),14.4,201,4.5,74.96503497
+Toyota,Fortuner,Leader Edition 4X2 AT 2.8,2755,Diesel,39.16,Automatic (TC),14.4,201,4.5,73.91215526
+Toyota,Fortuner,4X4 MT 2.8,2755,Diesel,40.43,Manual,14.2,201,4.5,70.59609201
+Toyota,Fortuner,4X4 AT 2.8,2755,Diesel,42.72,Automatic (TC),14.2,201,4.5,66.81179775
+Toyota,Fortuner,GR-S,2755,Diesel,51.94,Automatic (TC),14.2,201,4.5,54.95186754
+Toyota,Glanza,E,1197,Petrol,6.9,Manual,22.3,89,4.6,287.6376812
+Toyota,Glanza,S,1197,Petrol,7.79,Manual,22.3,89,4.6,254.775353
+Toyota,Glanza,S AMT,1197,Petrol,8.34,Automatic (AMT),22.9,89,4.6,244.3764988
+Toyota,Glanza,S E,1197,CNG,8.69,Manual,30.61,76,4.6,267.7054085
+Toyota,Glanza,G,1197,Petrol,8.82,Manual,22.3,89,4.6,225.0226757
+Toyota,Glanza,G AMT,1197,Petrol,9.37,Automatic (AMT),22.9,89,4.6,217.5133404
+Toyota,Glanza,G E,1197,CNG,9.72,Manual,30.61,76,4.6,239.3374486
+Toyota,Glanza,V,1197,Petrol,9.82,Manual,22.3,89,4.6,202.107943
+Toyota,Glanza,V AMT,1197,Petrol,10,Automatic (AMT),22.9,89,4.6,203.81
+Toyota,Urban Cruiser Taisor,E 1.2 MT,1197,Petrol,7.74,Manual,21.71,89,4.6,249.6369509
+Toyota,Urban Cruiser Taisor,S 1.2 MT,1197,Petrol,8.6,Manual,21.71,89,4.6,224.6732558
+Toyota,Urban Cruiser Taisor,E 1.2 MT,1197,CNG,8.72,Manual,28.51,76,4.6,248.4816514
+Toyota,Urban Cruiser Taisor,S Plus 1.2 MT,1197,Petrol,9,Manual,21.71,89,4.6,214.6877778
+Toyota,Urban Cruiser Taisor,S 1.2 AMT,1197,Petrol,9.18,Automatic (AMT),22.79,89,4.6,220.9488017
+Toyota,Urban Cruiser Taisor,S Plus 1.2 AMT,1197,Petrol,9.58,Automatic (AMT),22.79,89,4.6,211.723382
+Toyota,Urban Cruiser Taisor,G 1.0 MT,998,Petrol,10.56,Manual,21.18,99,4.6,198.5625
+Toyota,Urban Cruiser Taisor,V 1.0 MT,998,Petrol,11.48,Manual,21.18,99,4.6,182.6498258
+Toyota,Urban Cruiser Taisor,V 1.0 MT Dual Tone,998,Petrol,11.64,Manual,21.18,99,4.6,180.1391753
+Toyota,Urban Cruiser Taisor,G 1.0 AT,998,Petrol,11.96,Automatic (TC),19.86,99,4.6,164.3929766
+Toyota,Urban Cruiser Taisor,V 1.0 AT,998,Petrol,12.88,Automatic (TC),19.86,99,4.6,152.6506211
+Toyota,Urban Cruiser Taisor,V 1.0 AT Dual Tone,998,Petrol,13.04,Automatic (TC),19.86,99,4.6,150.7776074
+Toyota,Innova Crysta,GX 7 STR,2393,Diesel,19.99,Manual,14.03,148,4.7,103.873937
+Toyota,Innova Crysta,GX 8 STR,2393,Diesel,19.99,Manual,14.03,148,4.7,103.873937
+Toyota,Innova Crysta,GX Plus 7 STR,2393,Diesel,21.71,Manual,14.03,148,4.7,95.6444035
+Toyota,Innova Crysta,GX Plus 8 STR,2393,Diesel,21.76,Manual,14.03,148,4.7,95.42463235
+Toyota,Innova Crysta,VX 2.4 7 STR,2393,Diesel,25.14,Manual,14.03,148,4.7,82.59506762
+Toyota,Innova Crysta,VX 2.4 8 STR,2393,Diesel,25.19,Manual,14.03,148,4.7,82.43112346
+Toyota,Innova Crysta,ZX 2.4 7 STR,2393,Diesel,26.82,Manual,14.03,148,4.7,77.42132737
+Toyota,Innova Hycross,GX 7 STR,1987,Petrol,19.94,Automatic (CVT),16.13,173,4.6,139.944333
+Toyota,Innova Hycross,GX 8 STR,1987,Petrol,19.99,Automatic (CVT),16.13,173,4.6,139.5942971
+Toyota,Innova Hycross,GX (O) 8 STR,1987,Petrol,21.16,Automatic (CVT),16.13,173,4.6,131.8757089
+Toyota,Innova Hycross,GX (O) 7 STR,1987,Petrol,21.3,Automatic (CVT),16.13,173,4.6,131.0089202
+Toyota,Innova Hycross,VX Hybrid 7 STR,1987,Hybrid (Electric + Petrol),26.31,Automatic (e-CVT),23.24,184,4.6,162.5298366
+Toyota,Innova Hycross,VX Hybrid 8 STR,1987,Hybrid (Electric + Petrol),26.36,Automatic (e-CVT),23.24,184,4.6,162.2215478
+Toyota,Innova Hycross,VX (O) Hybrid 7 STR,1987,Hybrid (Electric + Petrol),28.29,Automatic (e-CVT),23.24,184,4.6,151.1544715
+Toyota,Innova Hycross,VX (O) Hybrid 8 STR,1987,Hybrid (Electric + Petrol),28.34,Automatic (e-CVT),23.24,184,4.6,150.8877911
+Toyota,Innova Hycross,ZX Hybrid 7 STR,1987,Hybrid (Electric + Petrol),30.7,Automatic (e-CVT),23.24,184,4.6,139.2885993
+Toyota,Innova Hycross,ZX (O) Hybrid 7 STR,1987,Hybrid (Electric + Petrol),31.34,Automatic (e-CVT),23.24,184,4.6,136.4441608
+Toyota,Innova Hycross,ZX (O) Hybrid 7 STR Exclusive Edition,1987,Hybrid (Electric + Petrol),32.58,Automatic (e-CVT),23.24,184,4.6,131.2510743
+Toyota,Hilux,STD 4X4 MT,2755,Diesel,30.4,Manual,10.85,201,4.6,71.73848684
+Toyota,Hilux,High 4X4 MT,2755,Diesel,37.15,Manual,10.85,201,4.6,58.7039031
+Toyota,Hilux,High 4X4 AT,2755,Diesel,37.9,Automatic (TC),12,201,4.6,63.64116095
+Toyota,Hilux,Black Edition,2755,Diesel,37.9,Automatic (TC),12,201,4.6,63.64116095
+Toyota,Camry Elegant,Camry Elegant,2487,Hybrid (Electric + Petrol),48.5,Automatic (e-CVT),25.49,184,4.7,96.7043299
+Toyota,Camry Elegant,Platinum White Pearl,2487,Hybrid(Electric+Petrol),48.65,Automatic(e-CVT),25.49,227,4.7,118.9358684
+Toyota,Fortuner Legender 2.8,4X2 AT,2755,Diesel,44.11,Automatic (TC),14.4,201,4.8,65.61777375
+Toyota,Fortuner Legender 2.8,4X4 MT,2755,Diesel,46.36,Manual,14.2,201,4.8,61.56600518
+Toyota,Fortuner Legender 2.8,4X4 AT,2755,Diesel,48.09,Automatic (TC),14.2,201,4.8,59.35121647
+Toyota,Rumion,S MT,1462,Petrol,10.54,Manual,20.51,102,4.8,198.483871
+Toyota,Rumion,S CNG,1462,CNG,11.49,Manual,26.11,87,4.8,197.6997389
+Toyota,Rumion,G MT,1462,Petrol,11.7,Manual,20.51,102,4.8,178.8051282
+Toyota,Rumion,S AT,1462,Petrol,12.04,Automatic (TC),20.11,102,4.8,170.3671096
+Toyota,Rumion,V MT,1462,Petrol,12.43,Manual,20.51,102,4.8,168.304103
+Toyota,Rumion,G AT,1462,Petrol,13.1,Automatic (TC),20.11,102,4.8,156.5816794
+Toyota,Rumion,V AT,1462,Petrol,13.83,Automatic (TC),20.11,102,4.8,148.3167028
+Kia,Seltos,HTE (O)1.5 MT,1497,Petrol,11.19,Manual,17,113,4.7,171.6711349
+Kia,Seltos,HTK 1.5 MT,1497,Petrol,12.64,Manual,17,113,4.7,151.9778481
+Kia,Seltos,HTE (O)1.5 MT,1493,Diesel,12.77,Manual,20.7,114,4.7,184.7924824
+Kia,Seltos,HTK (O)1.5 MT,1497,Petrol,13.05,Manual,17,113,4.7,147.2030651
+Kia,Seltos,HTK 1.5 MT,1493,Diesel,14.12,Manual,20.7,114,4.7,167.1246459
+Kia,Seltos,HTK Plus (O) 1.5 MT,1497,Petrol,14.46,Manual,17,113,4.7,132.8492393
+Kia,Seltos,HTK (O) 1.5 MT,1493,Diesel,14.61,Manual,20.7,114,4.7,161.5195072
+Kia,Seltos,HTK Plus 1.5 Turbo iMT,1482,Petrol,15.78,Clutchless Manual (IMT),17.7,158,4.7,177.2243346
+Kia,Seltos,HTK Plus (O) 1.5 CVT,1497,Petrol,15.82,Automatic(CVT),17.7,113,4.7,126.4285714
+Kia,Seltos,HTX 1.5 MT,1497,Petrol,15.82,Manual,17,113,4.7,121.4285714
+Kia,Seltos,HTK Plus (O) 1.5 MT,1493,Diesel,16.02,Manual,20.7,114,4.7,147.3033708
+Kia,Seltos,HTX (O)1.5 MT,1497,Petrol,16.77,Manual,17,113,4.7,114.5497913
+Kia,Seltos,HTX 1.5 CVT,1497,Petrol,17.27,Automatic (CVT),17.7,113,4.7,115.8135495
+Kia,Seltos,HTK Plus (O) 1.5 AT,1493,Diesel,17.28,Automatic(TC),19.1,114,4.7,126.0069444
+Kia,Seltos,HTX 1.5 MT,1493,Diesel,17.39,Manual,20.7,114,4.7,135.6986774
+Kia,Seltos,HTX (O) 1.5 CVT,1497,Petrol,18.1,Automatic(CVT),17.7,113,4.7,110.5027624
+Kia,Seltos,HTX (O)1.5 MT,1493,Diesel,18.42,Manual,20.7,114,4.7,128.1107492
+Kia,Seltos,HTX 1.5 AT,1493,Diesel,18.71,Automatic (TC),19.1,114,4.7,116.3762694
+Kia,Seltos,GTX Plus 1.5 Turbo DCT,1482,Petrol,20,Automatic (DCT),17.9,158,4.7,141.41
+Kia,Seltos,GTX Plus 1.5 AT,1493,Diesel,20,Automatic (TC),19.1,114,4.7,108.87
+Kia,Seltos,GTX Plus 1.5 Turbo DCT Dual Tone,1482,Petrol,20.2,Automatic (DCT),17.9,158,4.7,140.009901
+Kia,Seltos,GTX Plus 1.5 AT Dual Tone,1493,Diesel,20.2,Automatic (TC),19.1,114,4.7,107.7920792
+Kia,Seltos,X Line 1.5 Turbo DCT,1482,Petrol,20.56,Automatic (DCT),17.9,158,4.7,137.5583658
+Kia,Seltos,X Line 1.5 AT,1493,Diesel,20.56,Automatic (TC),19.1,114,4.7,105.9046693
+Kia,Carens,Premium (O) 1.5 Petrol 7 STR,1497,Petrol,11.41,Manual,15,113,4.5,148.5539001
+Kia,Sonet,HTE 1.2 MT,1197,Petrol,8,Manual,16.32,82,4.3,167.28
+Kia,Sonet,HTE (O) 1.2 MT,1197,Petrol,8.44,Manual,16.32,82,4.3,158.5592417
+Kia,Sonet,HTK 1.2 MT,1197,Petrol,9.24,Manual,16.32,82,4.3,144.8311688
+Kia,Sonet,HTK (O) 1.2 MT,1197,Petrol,9.6,Manual,16.32,82,4.3,139.4
+Kia,Sonet,HTK 1.0 Turbo iMT,998,Petrol,9.66,Clutchless Manual (IMT),18.4,118,4.3,224.7619048
+Kia,Sonet,HTE (O) 1.5 MT,1493,Diesel,10,Manual,24.1,114,4.3,274.74
+Kia,Sonet,HTK (O)1.0 Turbo iMT,998,Petrol,10,Clutchless Manual (IMT),18.4,118,4.3,217.12
+Kia,Sonet,HTK Plus (O) 1.2 MT,1197,Petrol,10.54,Manual,16.32,82,4.3,126.9677419
+Kia,Sonet,HTK Plus (O)1.0 Turbo iMT,998,Petrol,11.04,Clutchless Manual (IMT),18.4,118,4.3,196.6666667
+Kia,Sonet,HTK (O) 1.5 MT,1493,Diesel,11.1,Manual,24.1,114,4.3,247.5135135
+Kia,Sonet,HTX 1.0 Turbo iMT,998,Petrol,11.87,Clutchless Manual (IMT),18.4,118,4.3,182.9149115
+Kia,Sonet,HTK Plus (O)1.5 MT,1493,Diesel,12.04,Manual,24.1,114,4.3,228.1893688
+Kia,Sonet,HTX 1.5 MT,1493,Diesel,12.56,Manual,24.1,114,4.3,218.7420382
+Kia,Sonet,HTX 1.0 Turbo DCT,998,Petrol,12.74,Automatic (DCT),16.32,118,4.3,151.1585557
+Kia,Sonet,HTX 1.5 AT,1493,Diesel,13.43,Automatic (TC),19,114,4.3,161.2807148
+Kia,Sonet,GTX Plus 1.0 Turbo DCT,998,Petrol,14.84,Automatic (DCT),16.32,118,4.3,129.7681941
+Kia,Sonet,GTX Plus 1.0 Turbo DCT Dual Tone,998,Petrol,14.94,Automatic (DCT),16.32,118,4.3,128.8995984
+Kia,Sonet,X-Line 1.0 Turbo DCT,998,Petrol,15,Automatic (DCT),16.32,118,4.3,128.384
+Kia,Sonet,GTX Plus 1.5 AT,1493,Diesel,15.64,Automatic (TC),19,114,4.3,138.4910486
+Kia,Sonet,GTX Plus 1.5 AT Dual Tone,1493,Diesel,15.74,Automatic (TC),19,114,4.3,137.6111817
+Kia,Syros,HTK 1.0 Turbo 6MT,998,Petrol,9.5,Manual,18.2,118,4.5,226.0631579
+Kia,Syros,HTK (O) 1.0 Turbo 6MT,998,Petrol,10.3,Manual,18.2,118,4.5,208.5048544
+Kia,Syros,HTK (O) 1.5 6MT,1493,Diesel,11.3,Manual,20.75,114,4.5,209.3362832
+Kia,Syros,HTK Plus 1.0 Turbo 6MT,998,Petrol,11.8,Manual,18.2,118,4.5,182
+Kia,Syros,HTK Plus 1.5 6MT,1493,Diesel,12.8,Manual,20.75,114,4.5,184.8046875
+Kia,Syros,HTK Plus 1.0 Turbo 7DCT,998,Petrol,13.1,Automatic (DCT),17.68,118,4.5,159.2549618
+Kia,Syros,HTX 1.0 Turbo 6MT,998,Petrol,13.3,Manual,18.2,118,4.5,161.4736842
+Kia,Syros,HTX 1.5 6MT,1493,Diesel,14.3,Manual,20.75,114,4.5,165.4195804
+Kia,Syros,HTX 1.0 Turbo 7DCT,998,Petrol,14.6,Automatic (DCT),17.68,118,4.5,142.8931507
+Kia,Syros,HTX Plus 1.0 Turbo 7DCT,998,Petrol,16,Automatic (DCT),17.68,118,4.5,130.39
+Kia,Syros,HTX Plus (O) 1.0 Turbo 7DCT,998,Petrol,16.8,Automatic (DCT),17.68,118,4.5,124.1809524
+Kia,Syros,HTX Plus 1.5 6AT,1493,Diesel,17,Automatic (TC),17.65,114,4.5,118.3588235
+Kia,Syros,HTX Plus (O) 1.5 6AT,1493,Diesel,17.8,Automatic (TC),17.65,114,4.5,113.0393258
+Kia,Carnival,Limousine Plus,2151,Diesel,63.91,Automatic (TC),14.85,190,2.6,44.14802065
+Kia,EV6,GT Line AWD,84,Electric,65.97,Automatic,663,321,4,3226.057299
+Skoda,Kylaq,Classic,999,Petrol,8.25,Manual,19.68,114,4.8,271.9418182
+Skoda,Kylaq,Classic 1.0 TSI MT (Olive Gold),999,Petrol,8.34,Manual,19.68,114,4.8,269.0071942
+Skoda,Kylaq,Signature,999,Petrol,9.85,Manual,19.68,114,4.8,227.7685279
+Skoda,Kylaq,Signature 1.0 TSI MT (Lava Blue & Deep Black),999,Petrol,9.94,Manual,19.68,114,4.8,225.7062374
+Skoda,Kylaq,Signature AT,999,Petrol,10.95,Automatic (TC),19.05,114,4.8,198.3287671
+Skoda,Kylaq,Signature 1.0 TSI AT (Lava Blue & Deep Black),999,Petrol,11.04,Automatic (TC),19.05,114,4.8,196.7119565
+Skoda,Kylaq,Signature Plus,999,Petrol,11.25,Manual,19.68,114,4.8,199.424
+Skoda,Kylaq,Signature Plus 1.0 TSI MT (Lava Blue),999,Petrol,11.34,Manual,19.68,114,4.8,197.8412698
+Skoda,Kylaq,Signature Plus AT,999,Petrol,12.35,Automatic (TC),19.05,114,4.8,175.8461538
+Skoda,Kylaq,Signature Plus 1.0 TSI AT (Lava Blue),999,Petrol,12.44,Automatic (TC),19.05,114,4.8,174.573955
+Skoda,Kylaq,Prestige,999,Petrol,12.89,Manual,19.68,114,4.8,174.0512025
+Skoda,Kylaq,Prestige AT,999,Petrol,13.99,Automatic (TC),19.05,114,4.8,155.2323088
+Skoda,Slavia,Classic 1.0L TSI MT,999,Petrol,10.34,Manual,20.32,114,4.7,224.0309478
+Skoda,Slavia,Classic 1.0L TSI MT (Lava Blue),999,Petrol,10.44,Manual,20.32,114,4.7,221.8850575
+Skoda,Slavia,Signature 1.0L TSI MT,999,Petrol,13.59,Manual,20.32,114,4.7,170.4547461
+Skoda,Slavia,Sportline 1.0L TSI MT,999,Petrol,13.69,Manual,20.32,114,4.7,169.2096421
+Skoda,Slavia,Signature 1.0L TSI MT (Lava Blue Deep Black & Carbon Steel Matte),999,Petrol,13.69,Manual,20.32,114,4.7,169.2096421
+Skoda,Slavia,Sportline 1.0L TSI MT Dual Tone,999,Petrol,13.79,Manual,20.32,114,4.7,167.9825961
+Skoda,Slavia,Sportline 1.0L TSI MT (Lava Blue Deep Black & Carbon Steel Matte),999,Petrol,13.79,Manual,20.32,114,4.7,167.9825961
+Skoda,Slavia,Signature 1.0L TSI AT,999,Petrol,14.69,Automatic (TC),18.73,114,4.7,145.3519401
+Skoda,Slavia,Sportline 1.0L TSI AT,999,Petrol,14.79,Automatic (TC),18.73,114,4.7,144.3691684
+Skoda,Slavia,Signature 1.0 TSI AT (Lava Blue Deep Black & Carbon Steel Matte),999,Petrol,14.79,Automatic (TC),18.73,114,4.7,144.3691684
+Skoda,Slavia,Sportline 1.0 TSI AT Dual tone,999,Petrol,14.89,Automatic (TC),18.73,114,4.7,143.399597
+Skoda,Slavia,Sportline 1.0 TSI AT(Lava Blue Deep Black & Carbon Steel Matte),999,Petrol,14.89,Automatic (TC),18.73,114,4.7,143.399597
+Skoda,Slavia,Monte Carlo 1.0L TSI MT,999,Petrol,15.34,Manual,20.32,114,4.7,151.0091265
+Skoda,Slavia,Monte Carlo 1.0L TSI MT ((Carbon Steel Matte),999,Petrol,15.44,Manual,20.32,114,4.7,150.0310881
+Skoda,Slavia,Monte Carlo 1.0L TSI MT Dual Tone,999,Petrol,15.44,Manual,20.32,114,4.7,150.0310881
+Skoda,Slavia,Prestige 1.0L TSI MT,999,Petrol,15.54,Manual,20.32,114,4.7,149.0656371
+Skoda,Slavia,Prestige 1.0 TSI MT Dual tone,999,Petrol,15.64,Manual,20.32,114,4.7,148.112532
+Skoda,Slavia,Prestige 1.0 TSI MT (Carbon Steel Matte),999,Petrol,15.64,Manual,20.32,114,4.7,148.112532
+Skoda,Slavia,Sportline 1.5L TSI DSG,1498,Petrol,16.39,Automatic (DCT),19.36,148,4.7,174.8187919
+Skoda,Slavia,Monte Carlo 1.0L TSI AT,999,Petrol,16.44,Automatic (TC),18.73,114,4.7,129.879562
+Skoda,Slavia,Sportline 1.5 TSI DSG (Lava Blue Deep Black & Carbon Steel Matte),1498,Petrol,16.49,Automatic (DCT),19.36,148,4.7,173.7586416
+Skoda,Slavia,Sportline 1.5 TSI DSG Dual tone,1498,Petrol,16.49,Automatic (DCT),19.36,148,4.7,173.7586416
+Skoda,Slavia,Monte Carlo 1.0L TSI AT (Carbon Steel Matte),999,Petrol,16.54,Automatic (TC),18.73,114,4.7,129.0943168
+Skoda,Slavia,Monte Carlo 1.0 TSI AT Dual tone,999,Petrol,16.54,Automatic (TC),18.73,114,4.7,129.0943168
+Skoda,Slavia,Prestige 1.0L TSI AT,999,Petrol,16.64,Automatic (TC),18.73,114,4.7,128.3185096
+Skoda,Slavia,Prestige 1.0 TSI AT (Carbon Steel Matte),999,Petrol,16.74,Automatic (TC),18.73,114,4.7,127.5519713
+Skoda,Slavia,Prestige 1.0 TSI AT Dual tone,999,Petrol,16.74,Automatic (TC),18.73,114,4.7,127.5519713
+Skoda,Slavia,Monte Carlo 1.5L TSI DSG,1498,Petrol,18.04,Automatic (DCT),19.36,148,4.7,158.8292683
+Skoda,Slavia,Monte Carlo 1.5 TSI DSG (Carbon Steel Matte),1498,Petrol,18.14,Automatic (DCT),19.36,148,4.7,157.9536935
+Skoda,Slavia,Monte Carlo 1.5 TSI DSG Dual tone,1498,Petrol,18.14,Automatic (DCT),19.36,148,4.7,157.9536935
+Skoda,Slavia,Prestige 1.5L TSI DSG,1498,Petrol,18.24,Automatic (DCT),19.36,148,4.7,157.0877193
+Skoda,Slavia,Prestige 1.5L TSI DSG (Carbon Steel Matte),1498,Petrol,18.34,Automatic (DCT),19.36,148,4.7,156.2311887
+Skoda,Slavia,Prestige 1.5 TSI DSG Dual tone,1498,Petrol,18.34,Automatic (DCT),19.36,148,4.7,156.2311887
+Skoda,Kushaq,Classic 1.0L TSI MT,999,Petrol,10.99,Manual,19.76,114,4.4,204.9717925
+Skoda,Kushaq,Classic 1.0L TSI MT (Lava Blue),999,Petrol,11.09,Manual,19.76,114,4.4,203.1235347
+Skoda,Kushaq,ONYX Edition 1.0 TSI AT,999,Petrol,13.59,Automatic (TC),18.09,114,4.4,151.7483444
+Skoda,Kushaq,Onyx 1.0 TSI AT (Lava Blue & Deep Black),999,Petrol,13.69,Automatic (TC),18.09,114,4.4,150.6398831
+Skoda,Kushaq,Signature 1.0L TSI MT,999,Petrol,14.88,Manual,19.76,114,4.4,151.3870968
+Skoda,Kushaq,Sportline 1.0L TSI MT,999,Petrol,14.91,Manual,19.76,114,4.4,151.082495
+Skoda,Kushaq,Signature 1.0 TSI MT (Lava Blue Deep Black & Carbon Steel Matte),999,Petrol,14.98,Manual,19.76,114,4.4,150.376502
+Skoda,Kushaq,Sportline 1.0 TSI MT Dual Tone,999,Petrol,15.01,Manual,19.76,114,4.4,150.0759494
+Skoda,Kushaq,Sportline 1.0 TSI MT (Lava Blue Deep Black & Carbon Steel Matte),999,Petrol,15.01,Manual,19.76,114,4.4,150.0759494
+Skoda,Kushaq,Signature 1.0L TSI AT,999,Petrol,15.98,Automatic (TC),18.09,114,4.4,129.0525657
+Skoda,Kushaq,Sportline 1.0L TSI AT,999,Petrol,16.01,Automatic (TC),18.09,114,4.4,128.8107433
+Skoda,Kushaq,Signature 1.0 TSI AT (Lava Blue Deep Black & Carbon Steel Matte),999,Petrol,16.08,Automatic (TC),18.09,114,4.4,128.25
+Skoda,Kushaq,Sportline 1.0 TSI AT Dual Tone,999,Petrol,16.11,Automatic (TC),18.09,114,4.4,128.0111732
+Skoda,Kushaq,Sportline 1.0 TSI AT (Lava Blue Deep Black & Carbon Steel Matte),999,Petrol,16.11,Automatic (TC),18.09,114,4.4,128.0111732
+Skoda,Kushaq,Monte Carlo 1.0L TSI MT,999,Petrol,16.12,Manual,19.76,114,4.4,139.7419355
+Skoda,Kushaq,Monte Carlo 1.0 TSI MT (Carbon Steel Matte),999,Petrol,16.22,Manual,19.76,114,4.4,138.8803946
+Skoda,Kushaq,Monte Carlo 1.0 TSI MT Dual Tone,999,Petrol,16.22,Manual,19.76,114,4.4,138.8803946
+Skoda,Kushaq,Prestige 1.0L TSI MT,999,Petrol,16.31,Manual,19.76,114,4.4,138.1140405
+Skoda,Kushaq,Prestige 1.0 TSI MT (Carbon Steel Matte),999,Petrol,16.41,Manual,19.76,114,4.4,137.2723949
+Skoda,Kushaq,Prestige 1.0 TSI MT Dual Tone,999,Petrol,16.41,Manual,19.76,114,4.4,137.2723949
+Skoda,Kushaq,Monte Carlo 1.0L TSI AT,999,Petrol,17.22,Automatic (TC),18.09,114,4.4,119.7595819
+Skoda,Kushaq,Monte Carlo 1.0 TSI AT (Carbon Steel Matte),999,Petrol,17.32,Automatic (TC),18.09,114,4.4,119.0681293
+Skoda,Kushaq,Monte Carlo 1.0 TSI AT Dual Tone,999,Petrol,17.32,Automatic (TC),18.09,114,4.4,119.0681293
+Skoda,Kushaq,Prestige 1.0L TSI AT,999,Petrol,17.41,Automatic (TC),18.09,114,4.4,118.4526134
+Skoda,Kushaq,Prestige 1.0 TSI AT (Carbon Steel Matte),999,Petrol,17.51,Automatic (TC),18.09,114,4.4,117.7761279
+Skoda,Kushaq,Prestige 1.0 TSI AT Dual Tone,999,Petrol,17.51,Automatic (TC),18.09,114,4.4,117.7761279
+Skoda,Kushaq,Sportline 1.5L TSI DSG,1498,Petrol,17.61,Automatic (DCT),18.86,148,4.4,158.5053947
+Skoda,Kushaq,Sportline 1.5 TSI DSG (Lava Blue Deep Black & Carbon Steel Matte),1498,Petrol,17.71,Automatic (DCT),18.86,148,4.4,157.6103896
+Skoda,Kushaq,Sportline 1.5 TSI DSG Dual Tone,1498,Petrol,17.71,Automatic (DCT),18.86,148,4.4,157.6103896
+Skoda,Kushaq,Monte Carlo 1.5L TSI DSG,1498,Petrol,18.82,Automatic (DCT),18.86,148,4.4,148.314559
+Skoda,Kushaq,Monte Carlo 1.5 TSI DSG (Carbon Steel Matte),1498,Petrol,18.92,Automatic (DCT),18.86,148,4.4,147.5306554
+Skoda,Kushaq,Monte Carlo 1.5 TSI DSG Dual Tone,1498,Petrol,18.92,Automatic (DCT),18.86,148,4.4,147.5306554
+Skoda,Kushaq,Prestige 1.5L TSI AT,1498,Petrol,19.01,Automatic (DCT),18.86,148,4.4,146.8321936
+Skoda,Kushaq,Prestige 1.5 TSI DSG (Carbon Steel Matte),1498,Petrol,19.11,Automatic (DCT),18.86,148,4.4,146.0638409
+Skoda,Kushaq,Prestige 1.5 TSI DSG Dual Tone,1498,Petrol,19.11,Automatic (DCT),18.86,148,4.4,146.0638409
+Skoda,Kodiaq,Sportline,1984,Petrol,46.89,Automatic (DCT),14.86,201,4.8,63.69929623
+Skoda,Kodiaq,L&K,1984,Petrol,48.69,Automatic (DCT),14.86,201,4.8,61.34442391
+BMW,3 Series LWB,320Ld M Sport,1998,Diesel,62,Automatic (TC),19.61,188,5,59.46258065
+BMW,3 Series LWB,330Li M Sport,1998,Petrol,62.6,Automatic (TC),15.39,255,5,62.69089457
+BMW,3 Series LWB,320Ld M Sport Pro,1998,Diesel,65,Automatic (TC),19.61,188,5,56.71815385
+BMW,Z4 M 40i,Z4 M 40i,2998,Petrol,92.9,Automatic (TC),12.09,335,4.7,43.59687836
+BMW,Z4 M 40i,Pure Impulse AT,2998,Petrol,96.9,Automatic (TC),12.09,335,4.7,41.79721362
+BMW,Z4 M 40i,Pure Impulse MT,2998,Petrol,97.9,Manual,12.09,335,4.7,41.37027579
+BMW,iX1 LWB,eDrive20L M Sport,66.4,Electric,49,Automatic,531,204,5,2210.693878
+BMW,iX1,xDrive30 M Sport,66.4,Electric,66.9,Automatic,417,308,4.3,1919.820628
+BMW,X3,xDrive20 M Sport,1998,Petrol,75.8,Automatic (TC),13.38,188,4.8,33.18522427
+BMW,X3,xDrive20d M Sport,1995,Diesel,77.8,Automatic (TC),17.86,194,4.8,44.53521851
+BMW,X1,sDrive18i M Sport,1499,Petrol,50.8,Automatic (DCT),16.35,134,4.5,43.12795276
+BMW,X1,sDrive18d M Sport,1995,Diesel,53.8,Automatic (DCT),20.37,148,4.5,56.03643123
+BMW,5 Series,530Li M Sport (Titanium Bronze),1998,Petrol,72.9,Automatic (TC),15.7,255,4.8,54.91769547
+BMW,5 Series,530Li M Sport (Aluminium Satinated),1998,Petrol,72.9,Automatic (TC),15.7,255,4.8,54.91769547
+BMW,M340i,xDrive,2998,Petrol,74.9,Automatic (TC),13.02,369,4.8,64.14392523
+BMW,i4,eDrive35 M Sport,70.2,Electric,72.5,Automatic,483,335.25,4.5,2233.458621
+BMW,i4,eDrive40 M Sport,83.9,Electric,77.5,Automatic,590,335.25,4.5,2552.225806
+BMW,X4,M40i xDrive,2998,Petrol,96.2,Automatic (TC),10.4,355,4.5,38.37837838
+BMW,2 Series,Gran Coupe 220i M Sport,1998,Petrol,44.4,Automatic (TC),14.82,176,4.7,58.74594595
+BMW,2 Series,Gran Coupe M Performance Edition,1998,Petrol,46,Automatic (TC),14.82,177,4.7,57.02478261
+BMW,2 Series,Gran Coupe 220i M Sport Pro,1998,Petrol,46.4,Automatic (TC),14.82,176,4.7,56.2137931
+BMW,2 Series,Gran Coupe 220i M Sport Shadow Edition,1998,Petrol,46.9,Automatic (TC),14.82,177,4.7,55.93049041
+BMW,2 Series,Gran Coupe 220d M Sport,1995,Diesel,47.4,Automatic (TC),18.64,188,4.7,73.93080169
+Benz,C-Class,C 300 AMG Line,1999,Mild Hybrid(Electric + Petrol),66.25,Automatic (TC),17,255,4.7,65.43396226
+Benz,A-Class,Limousine 200,1332,Petrol,46.05,Automatic (DCT),15,161,4.7,52.44299674
+Benz,A-Class,Limousine 200d,1950,Diesel,48.55,Automatic (DCT),16.3,147,4.7,49.35324408
+Benz,EQA,250 Plus,70.5,Electric,67.2,Automatic,560,188,5,1566.666667
+Benz,GLA,200,1332,Petrol,50.8,Automatic (DCT),15,161,4.8,47.53937008
+Benz,GLA,220d 4MATIC,1950,Diesel,53.8,Automatic (DCT),14,188,4.8,48.92193309
+Benz,GLA,220d AMG Line 4MATIC,1950,Diesel,55.8,Automatic (DCT),14,188,4.8,47.16845878
+Benz,E-Class,E200,1999,Petrol,79.5,Automatic (TC),12.06,201,4.7,30.49132075
+Benz,E-Class,E220d,1993,Diesel,82.5,Automatic (TC),15,194,4.7,35.27272727
+Benz,E-Class,450 4MATIC,2999,Petrol,92.5,Automatic (TC),11.9,375,4.7,48.24324324
+Benz,GLC,300 4MATIC,1999,Petrol,76.8,Automatic (TC),14.72,255,4.7,48.875
+Benz,GLC,220d 4MATIC,1993,Diesel,77.8,Automatic (TC),19.47,194,4.7,48.54987147
+Benz,AMG C,43 4MATIC,1991,Petrol,99.4,Automatic (TC),14.5,402,4.8,58.64185111
+Benz,AMG A45,S 4Matic Plus,1991,Petrol,93.65,Automatic (DCT),12,421,4.7,53.94554191
+Benz,AMG,GLA35 4MATIC,1991,Petrol,63.5,Automatic (DCT),13.4,302,4.8,63.72913386
+Benz,EQB,250 Plus,70.5,Electric,72.2,Automatic,535,187.74,4.6,1391.148199
+Benz,EQB,350 4MATIC,66.5,Electric,78.9,Automatic,423,288.32,4.6,1545.746008
+Land Rover,Range Rover Velar,HSE Dynamic 2.0 Petrol,1998,Petrol,87.9,Automatic (TC),14,247,4.8,39.34015927
+Land Rover,Range Rover Velar,HSE Dynamic 2.0 Diesel,1998,Diesel,87.9,Automatic (TC),13.6,201,4.8,31.09897611
+Land Rover,Range Rover Evoque,Autobiography Petrol,1997,Mild Hybrid(Electric + Petrol),69.5,Automatic (TC),12.82,247,4.7,45.56172662
+Land Rover,Range Rover Evoque,Autobiography Diesel,1998,Mild Hybrid (Electric + Diesel),69.5,Automatic (TC),10.6,201,4.7,30.65611511
+Land Rover,Discovery Sport,SE R-Dynamic Diesel,1997,Diesel,67.9,Automatic (TC),12,201,4.2,35.52282769
+Land Rover,Discovery Sport,SE R-Dynamic Petrol,1997,Petrol,67.9,Automatic (TC),10.5,247,4.2,38.19587629
+MG,Windsor EV,Excite,38,Electric,12,Automatic,331,134,4.5,3696.166667
+MG,Windsor EV,Exclusive,38,Electric,13.04,Automatic,331,134,4.5,3401.380368
+MG,Windsor EV,Essence,38,Electric,14.14,Automatic,331,134,4.5,3136.775106
+MG,Windsor EV,Essence Pro,52.9,Electric,15.6,Automatic,449,134,4.5,3856.794872
+MG,Hector,Style 1.5 Turbo MT,1451,Petrol,14.25,Manual,13.79,141,4.5,136.4484211
+MG,Hector,Shine Pro 1.5 Turbo MT,1451,Petrol,16.99,Manual,13.79,141,4.5,114.4432019
+MG,Hector,Shine Pro 1.5 Turbo CVT,1451,Petrol,17.97,Automatic (CVT),12.34,141,4.5,96.82470785
+MG,Hector,Select Pro 1.5 Turbo MT,1451,Petrol,18.33,Manual,13.79,141,4.5,106.0769231
+MG,Hector,Shine Pro 2.0 Turbo MT,1956,Diesel,18.58,Manual,15.58,168,4.5,140.8740581
+MG,Hector,Smart Pro 1.5 Turbo MT,1451,Petrol,19.31,Manual,13.79,141,4.5,100.6934231
+MG,Hector,Select Pro 1.5 Turbo CVT,1451,Petrol,19.59,Automatic (CVT),12.34,141,4.5,88.81776417
+MG,Hector,Select Pro 2.0 Turbo MT,1956,Diesel,19.62,Manual,15.58,168,4.5,133.4067278
+MG,Hector,Smart Pro 2.0 Turbo MT,1956,Diesel,20.61,Manual,15.58,168,4.5,126.9985444
+MG,Hector,Smart Pro 2.0 Turbo MT Dual Tone,1956,Diesel,20.81,Manual,15.58,168,4.5,125.7779914
+MG,Hector,Sharp Pro 1.5 Turbo MT,1451,Petrol,20.86,Manual,13.79,141,4.5,93.2114094
+MG,Hector,Sharp Pro 1.5 Turbo MT Dual Tone,1451,Petrol,21.06,Manual,13.79,141,4.5,92.32621083
+MG,Hector,100-Year Edition 1.5 Turbo MT,1451,Petrol,22.02,Manual,13.79,141,4.5,88.30108992
+MG,Hector,Sharp Pro 1.5 Turbo CVT,1451,Petrol,22.07,Automatic (CVT),12.34,141,4.5,78.83733575
+MG,Hector,Sharp Pro 2.0 Turbo MT,1956,Diesel,22.25,Manual,15.58,168,4.5,117.6377528
+MG,Hector,Sharp Pro 1.5 Turbo CVT Dual Tone,1451,Petrol,22.27,Automatic (CVT),12.34,141,4.5,78.12932196
+MG,Hector,Sharp Pro Snowstorm 1.5 Turbo CVT,1451,Petrol,22.39,Automatic (CVT),12.34,141,4.5,77.71058508
+MG,Hector,Sharp Pro Blackstorm 1.5 Turbo CVT,1451,Petrol,22.39,Automatic (CVT),12.34,141,4.5,77.71058508
+MG,Hector,100-Year Edition 2.0 Turbo MT,1956,Diesel,22.45,Manual,15.58,168,4.5,116.589755
+MG,Hector,Sharp Pro 2.0 Turbo MT Dual Tone,1956,Diesel,22.45,Manual,15.58,168,4.5,116.589755
+MG,Hector,Sharp Pro Blackstorm 2.0 Turbo MT,1956,Diesel,22.57,Manual,15.58,168,4.5,115.9698715
+MG,Hector,Sharp Pro Snowstorm 2.0 Turbo MT,1956,Diesel,22.57,Manual,15.58,168,4.5,115.9698715
+MG,Hector,Savvy Pro 1.5 Turbo CVT,1451,Petrol,23.14,Automatic (CVT),12.34,141,4.5,75.19187554
+MG,Hector,Savvy Pro 1.5 Turbo CVT Dual Tone,1451,Petrol,23.34,Automatic (CVT),12.34,141,4.5,74.54755784
+MG,Comet EV,Executive,17.3,Electric,6.17,Automatic,230,41,4.4,1528.363047
+MG,Comet EV,Excite,17.3,Electric,7.33,Automatic,230,41,4.4,1286.493861
+MG,Comet EV,Excite FC,17.4,Electric,7.79,Automatic,230,41,4.4,1210.526316
+MG,Comet EV,Exclusive,17.3,Electric,8.38,Automatic,230,41,4.4,1125.298329
+MG,Comet EV,100-Year Edition,17.3,Electric,8.76,Automatic,230,41,4.4,1076.484018
+MG,Comet EV,Exclusive FC,17.4,Electric,8.8,Automatic,230,41,4.4,1071.590909
+MG,Comet EV,Blackstorm Edition,17.4,Electric,8.82,Automatic,230,41,4.4,1069.160998
+MG,Gloster,Sharp 7 STR 2.0 Turbo 2WD,1996,Diesel,41.07,Automatic (TC),9.5,159,4.2,36.77867056
+MG,Gloster,Savvy 7 STR 2.0 Turbo 2WD,1996,Diesel,42.64,Automatic (TC),9.5,159,4.2,35.42448405
+MG,Gloster,Savvy 6 STR 2.0 Turbo 2WD,1996,Diesel,42.64,Automatic (TC),9.5,159,4.2,35.42448405
+MG,Gloster,Blackstorm 6 STR 2.0 Turbo 2WD,1996,Diesel,43.35,Automatic (TC),9.5,159,4.2,34.84429066
+MG,Gloster,Blackstorm 7 STR 2.0 Turbo 2WD,1996,Diesel,43.35,Automatic (TC),9.5,159,4.2,34.84429066
+MG,Gloster,Desertstorm 6 STR 2.0 Turbo 2WD,1996,Diesel,43.35,Automatic (TC),9.5,159,4.2,34.84429066
+MG,Gloster,Desertstorm 7 STR 2.0 Turbo 2WD,1996,Diesel,43.35,Automatic (TC),9.5,159,4.2,34.84429066
+MG,Gloster,Snowstorm 7 STR 2.0 Turbo 2WD,1996,Diesel,43.35,Automatic (TC),9.5,159,4.2,34.84429066
+MG,Gloster,Savvy 7 STR 2.0 Twin Turbo 4WD,1996,Diesel,45.53,Automatic (TC),9.5,213,4.2,44.44322425
+MG,Gloster,Savvy 6 STR 2.0 Twin Turbo 4WD,1996,Diesel,45.53,Automatic (TC),9.5,213,4.2,44.44322425
+MG,Gloster,Blackstorm 6 STR 2.0 Twin Turbo 4WD,1996,Diesel,46.24,Automatic (TC),9.5,213,4.2,43.76081315
+MG,Gloster,Blackstorm 7 STR 2.0 Twin Turbo 4WD,1996,Diesel,46.24,Automatic (TC),9.5,213,4.2,43.76081315
+MG,Gloster,Desertstorm 6 STR 2.0 Twin Turbo 4WD,1996,Diesel,46.24,Automatic (TC),9.5,213,4.2,43.76081315
+MG,Gloster,Desertstorm 7 STR 2.0 Twin Turbo 4WD,1996,Diesel,46.24,Automatic (TC),9.5,213,4.2,43.76081315
+MG,Gloster,Snowstorm 7 STR 2.0 Twin Turbo 4WD,1996,Diesel,46.24,Automatic (TC),9.5,213,4.2,43.76081315
+MG,Hector Plus,Style 2.0 7 STR,1956,Diesel,17.5,Manual,15.58,168,4.4,149.568
+MG,Hector Plus,Style 2.0 6 STR,1956,Diesel,17.5,Manual,15.58,168,4.4,149.568
+MG,Hector Plus,Select Pro 1.5 MT 7 STR,1451,Petrol,19.1,Manual,13.79,141,4.4,101.8005236
+MG,Hector Plus,Select Pro 1.5 Turbo CVT 7 STR,1451,Petrol,20.36,Automatic (CVT),12.34,141,4.4,85.45874263
+MG,Hector Plus,Select Pro 2.0 7 STR,1956,Diesel,20.57,Manual,15.58,168,4.4,127.2455032
+MG,Hector Plus,Smart Pro 2.0 Turbo 7 STR,1956,Diesel,20.96,Manual,15.58,168,4.4,124.8778626
+MG,Hector Plus,Sharp Pro 1.5 Turbo MT 6 STR,1451,Petrol,21.62,Manual,13.79,141,4.4,89.93478261
+MG,Hector Plus,Sharp Pro 1.5 Turbo 7 STR,1451,Petrol,21.62,Manual,13.79,141,4.4,89.93478261
+MG,Hector Plus,Sharp Pro 1.5 Turbo 7 STR Dual Tone,1451,Petrol,21.82,Manual,13.79,141,4.4,89.11044913
+MG,Hector Plus,Sharp Pro 1.5 Turbo 6 STR Dual Tone,1451,Petrol,21.82,Manual,13.79,141,4.4,89.11044913
+MG,Hector Plus,Smart Pro 2.0 Turbo 6 STR,1956,Diesel,21.86,Manual,15.58,168,4.4,119.736505
+MG,Hector Plus,100-Year Edition 1.5 Turbo 7 STR,1451,Petrol,22.8,Manual,13.79,141,4.4,85.28026316
+MG,Hector Plus,Sharp Pro 2.0 Turbo 7 STR,1956,Diesel,22.85,Manual,15.58,168,4.4,114.5487965
+MG,Hector Plus,Sharp Pro 1.5 Turbo CVT 6 STR,1451,Petrol,22.87,Automatic (CVT),12.34,141,4.4,76.07958024
+MG,Hector Plus,Sharp Pro 1.5 Turbo CVT 7 STR,1451,Petrol,22.87,Automatic (CVT),12.34,141,4.4,76.07958024
+MG,Hector Plus,Sharp Pro Snowstorm 1.5 Turbo CVT 7 STR,1451,Petrol,22.92,Automatic (CVT),12.34,141,4.4,75.91361257
+MG,Hector Plus,Sharp Pro 2.0 Turbo 7 STR Dual Tone,1956,Diesel,23.05,Manual,15.58,168,4.4,113.5548807
+MG,Hector Plus,Sharp Pro 1.5 Turbo CVT 6 STR Dual Tone,1451,Petrol,23.07,Automatic (CVT),12.34,141,4.4,75.42002601
+MG,Hector Plus,Sharp Pro 1.5 Turbo  CVT 7 STR Dual Tone,1451,Petrol,23.07,Automatic (CVT),12.34,141,4.4,75.42002601
+MG,Hector Plus,100-Year Edition 2.0 Turbo 7 STR,1956,Diesel,23.08,Manual,15.58,168,4.4,113.407279
+MG,Hector Plus,Sharp Pro 2.0 Turbo 6 STR,1956,Diesel,23.11,Manual,15.58,168,4.4,113.2600606
+MG,Hector Plus,Sharp Pro Blackstorm 1.5 Turbo CVT 7 STR,1451,Petrol,23.19,Automatic (CVT),12.34,141,4.4,75.0297542
+MG,Hector Plus,Sharp Pro Snowstorm 2.0 Turbo MT 7 STR,1956,Diesel,23.2,Manual,15.58,168,4.4,112.8206897
+MG,Hector Plus,Sharp Pro Blackstorm 2.0 Turbo 7 STR,1956,Diesel,23.22,Manual,15.58,168,4.4,112.7235142
+MG,Hector Plus,Sharp Pro 2.0 Turbo 6 STR Dual Tone,1956,Diesel,23.31,Manual,15.58,168,4.4,112.2882883
+MG,Hector Plus,Sharp Pro Snowstorm 2.0 Turbo MT 6 STR,1956,Diesel,23.41,Manual,15.58,168,4.4,111.8086288
+MG,Hector Plus,Sharp Pro Blackstorm 2.0 Turbo 6 STR,1956,Diesel,23.43,Manual,15.58,168,4.4,111.7131882
+MG,Hector Plus,Savvy Pro 1.5 Turbo CVT 6 STR,1451,Petrol,23.94,Automatic (CVT),12.34,141,4.4,72.67919799
+MG,Hector Plus,Savvy Pro 1.5 Turbo CVT 7 STR,1451,Petrol,23.94,Automatic (CVT),12.34,141,4.4,72.67919799
+MG,Hector Plus,Savvy Pro 1.5 Turbo CVT 7 STR Dual Tone,1451,Petrol,24.14,Automatic (CVT),12.34,141,4.4,72.07705054
+MG,Hector Plus,Savvy Pro 1.5 Turbo CVT 6 STR Dual Tone,1451,Petrol,24.14,Automatic (CVT),12.34,141,4.4,72.07705054
+MG,Astor,Sprint 1.5 MT (Ivory),1498,Petrol,11.3,Manual,15.43,108,4.2,147.4725664
+MG,Astor,Shine 1.5 MT (Ivory),1498,Petrol,12.48,Manual,15.43,108,4.2,133.5288462
+MG,Astor,Select 1.5 MT Blackstorm,1498,Petrol,13.78,Manual,15.43,108,4.2,120.9317852
+MG,Astor,Select 1.5 MT (Ivory),1498,Petrol,13.82,Manual,15.43,108,4.2,120.5817656
+MG,Astor,Select 1.5 CVT Blackstorm,1498,Petrol,14.81,Automatic (CVT),14.82,108,4.2,108.0729237
+MG,Astor,Select 1.5 CVT (Ivory),1498,Petrol,14.85,Automatic (CVT),14.82,108,4.2,107.7818182
+MG,Astor,Sharp Pro 1.5 MT (Ivory),1498,Petrol,15.21,Manual,15.43,108,4.2,109.5621302
+MG,Astor,Sharp Pro 100-Year Edition 1.5 MT,1498,Petrol,15.41,Manual,15.43,108,4.2,108.1401687
+MG,Astor,Sharp Pro 1.5 CVT (Ivory),1498,Petrol,16.49,Automatic (CVT),14.82,108,4.2,97.0624621
+MG,Astor,Sharp Pro 1.5 CVT (Ivory) Dual Tone,1498,Petrol,16.69,Automatic (CVT),14.82,108,4.2,95.89934092
+MG,Astor,100-Year Edition 1.5 CVT,1498,Petrol,16.73,Automatic (CVT),14.82,108,4.2,95.6700538
+MG,Astor,Savvy Pro 1.5 CVT (Ivory),1498,Petrol,17.46,Automatic (CVT),14.82,108,4.2,91.67010309
+MG,Astor,Savvy Pro 1.5 CVT Sangria,1498,Petrol,17.56,Automatic (CVT),14.82,108,4.2,91.14806378
+MG,Astor,Savvy Pro 1.5 CVT (Ivory) Dual Tone,1498,Petrol,17.66,Automatic (CVT),14.82,108,4.2,90.63193658
+MG,Astor,Savvy Pro 1.5 CVT Sangria Dual Tone,1498,Petrol,17.76,Automatic (CVT),14.82,108,4.2,90.12162162
+MG,Astor,Savvy Pro 1.3 Turbo AT Sangria,1349,Petrol,18.35,Automatic (TC),16,138,4.2,120.3269755
+MG,Astor,Savvy Pro 1.3 Turbo AT Sangria Dual Tone,1349,Petrol,18.55,Automatic (TC),16,138,4.2,119.0296496
+MG,ZS EV,Executive,50.3,Electric,16.48,Automatic,461,154,4.2,4307.88835
+MG,ZS EV,Excite Pro,50.3,Electric,17.73,Automatic,461,154,4.2,4004.173717
+MG,ZS EV,Exclusive Plus Dark Grey,50.3,Electric,22.35,Automatic,461,154,4.2,3176.465324
+MG,ZS EV,Exclusive Plus Dual Tone Iconic Ivory,50.3,Electric,22.55,Automatic,461,154,4.2,3148.292683
+MG,ZS EV,100-Year Edition,50.3,Electric,22.55,Automatic,461,154,4.2,3148.292683
+MG,ZS EV,Essence Dark Grey,50.3,Electric,23.5,Automatic,461,154,4.2,3021.021277
+MG,ZS EV,Essence Dual Tone Iconic Ivory,50.3,Electric,23.7,Automatic,461,154,4.2,2995.527426
+Honda,Elevate,SV MT,1498,Petrol,11.95,Manual,15.31,119,4.5,152.4594142
+Honda,Elevate,V MT,1498,Petrol,12.43,Manual,15.31,119,4.5,146.5720032
+Honda,Elevate,Apex Summer Edition V MT,1498,Petrol,12.43,Manual,15.31,119,4.5,146.5720032
+Honda,Elevate,Apex Summer Edition V CVT,1498,Petrol,13.63,Automatic(CVT),16.92,119,4.5,147.7241379
+Honda,Elevate,V CVT,1498,Petrol,13.63,Automatic (CVT),16.92,119,4.5,147.7241379
+Honda,Elevate,VX MT,1498,Petrol,14.14,Manual,15.31,119,4.5,128.8465347
+Honda,Elevate,Apex Edition VX MT,1498,Petrol,14.29,Manual,15.31,119,4.5,127.4940518
+Honda,Elevate,Apex Edition VX CVT,1498,Petrol,15.29,Automatic(CVT),16.92,119,4.5,131.6860693
+Honda,Elevate,VX CVT,1498,Petrol,15.34,Automatic (CVT),16.92,119,4.5,131.2568449
+Honda,Elevate,ZX MT,1498,Petrol,15.45,Manual,15.31,119,4.5,117.9216828
+Honda,Elevate,Black Edition ZX MT 2024,1498,Petrol,15.51,Manual,15.31,119,4.5,117.4655061
+Honda,Elevate,Signature Black Edition ZX MT 2024,1498,Petrol,15.71,Manual,15.31,119,4.5,115.9700827
+Honda,Elevate,ZX CVT Dual Tone,1498,Petrol,16.55,Automatic (CVT),16.92,119,4.5,121.660423
+Honda,Elevate,ZX CVT,1498,Petrol,16.67,Automatic (CVT),16.92,119,4.5,120.7846431
+Honda,Elevate,ZX CVT Dual Tone 2024,1498,Petrol,16.67,Automatic (CVT),16.92,119,4.5,120.7846431
+Honda,Elevate,Black Edition ZX CVT 2024,1498,Petrol,16.73,Automatic (CVT),16.92,119,4.5,120.3514644
+Honda,Elevate,Signature Black Edition ZX CVT 2024,1498,Petrol,16.93,Automatic (CVT),16.92,119,4.5,118.9297106
+Honda,Amaze,V 1.2 MT,1199,Petrol,8.14,Manual,18.65,89,4.7,203.9127764
+Honda,Amaze,VX 1.2 MT,1199,Petrol,9.24,Manual,18.65,89,4.7,179.6374459
+Honda,Amaze,V 1.2 CVT,1199,Petrol,9.39,Automatic (CVT),19.46,89,4.7,184.4451544
+Honda,Amaze,ZX 1.2 MT,1199,Petrol,10.04,Manual,18.65,89,4.7,165.3237052
+Honda,Amaze,VX 1.2 CVT,1199,Petrol,10.19,Automatic (CVT),19.46,89,4.7,169.9646712
+Honda,Amaze,ZX 1.2 CVT,1199,Petrol,11.24,Automatic (CVT),19.46,89,4.7,154.0871886
+Honda,City,SV MT,1498,Petrol,12.42,Manual,17.8,119,4.6,170.547504
+Honda,City,Elegant Edition MT,1498,Petrol,12.84,Manual,17.8,119,4.6,164.9688474
+Honda,City,V MT,1498,Petrol,13.19,Manual,17.8,119,4.6,160.5913571
+Honda,City,V MT Apex Edition,1498,Petrol,13.34,Manual,17.8,119,4.6,158.7856072
+Honda,City,Elegant Edition CVT,1498,Petrol,14.09,Automatic (CVT),18.4,119,4.6,155.4009936
+Honda,City,VX MT,1498,Petrol,14.26,Manual,17.8,119,4.6,148.5413745
+Honda,City,VX MT Apex Edition,1498,Petrol,14.41,Manual,17.8,119,4.6,146.9951423
+Honda,City,V CVT,1498,Petrol,14.44,Automatic (CVT),18.4,119,4.6,151.634349
+Honda,City,V CVT Apex Edition,1498,Petrol,14.59,Automatic(CVT),18.4,119,4.6,150.0753941
+Honda,City,VX CVT Apex Editon,1498,Petrol,15.41,Automatic(CVT),18.4,119,4.6,142.0895522
+Honda,City,ZX MT,1498,Petrol,15.44,Manual,17.8,119,4.6,137.1891192
+Honda,City,VX CVT,1498,Petrol,15.51,Automatic (CVT),18.4,119,4.6,141.1734365
+Honda,City,ZX CVT,1498,Petrol,16.69,Automatic (CVT),18.4,119,4.6,131.1923307
+Honda,City Hybrid,eHEV ZX,1498,Hybrid (Electric + Petrol),20.89,Automatic (e-CVT),27.1,97,4.6,125.8353279
+Honda,Amaze 2nd Gen,E 1.2 MT,1199,Petrol,7.23,Manual,18.6,89,4.3,228.9626556
+Honda,Amaze 2nd Gen,S 1.2 MT,1199,Petrol,7.6,Manual,18.6,89,4.3,217.8157895
+Honda,Amaze 2nd Gen,S 1.2 MT 2024,1199,Petrol,7.66,Manual,18.6,89,4.3,216.1096606
+Honda,Amaze 2nd Gen,S 1.2 CVT,1199,Petrol,8.5,Automatic (CVT),18.3,89,4.3,191.6117647
+Honda,Amaze 2nd Gen,S 1.2 CVT 2024,1199,Petrol,8.56,Automatic (CVT),18.3,89,4.3,190.2686916
+Honda,Amaze 2nd Gen,VX 1.2 MT,1199,Petrol,9.02,Manual,18.6,89,4.3,183.5254989
+Honda,Amaze 2nd Gen,VX 1.2 MT 2024,1199,Petrol,9.07,Manual,18.6,89,4.3,182.5137817
+Honda,Amaze 2nd Gen,Elite Edition MT,1199,Petrol,9.17,Manual,18.6,89,4.3,180.523446
+Honda,Amaze 2nd Gen,VX 1.2 CVT,1199,Petrol,9.84,Automatic (CVT),18.3,89,4.3,165.5182927
+Honda,Amaze 2nd Gen,VX 1.2 CVT 2024,1199,Petrol,9.89,Automatic (CVT),18.3,89,4.3,164.6814965
+Honda,Amaze 2nd Gen,Elite Edition CVT,1199,Petrol,9.99,Automatic (CVT),18.3,89,4.3,163.033033
